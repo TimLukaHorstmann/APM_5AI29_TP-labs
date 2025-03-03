@@ -1,0 +1,1306 @@
+{
+  "no_rag_predictions": [
+    {
+      "id": 5,
+      "question": "Who won the 6th congressional district of Maryland in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Who won the 14th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Who won the 8th congressional district of Colorado in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Who won the 5th congressional district of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Who won the governor race of New Hampshire in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Who won the at-large congressional district of North Dakota in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Who won the 24th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Who won the 25th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Who won the 13th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Who won the governor race of Kansas in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Who won the senate race of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Who won the 13th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Who won the 2nd congressional district of Wisconsin in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Who won the 14th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Who won the 23rd congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "Who won the 11th congressional district of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Who won the 6th congressional district of New Jersey in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Who won the 17th congressional district of Florida in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Who won the 4th congressional district of Tennessee in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Who won the 1st congressional district of Rhode Island in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Who won the 46th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Who won the 8th congressional district of Wisconsin in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Who won the 4th congressional district of Wisconsin in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Who won the 4th congressional district of Louisiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Who won the 6th congressional district of Missouri in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Who won the senate race of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Who won the 6th congressional district of Washington in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Who won the senate race of Vermont in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Who won the 4th congressional district of Ohio in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "Who won the 1st congressional district of Minnesota in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Who won the 4th congressional district of Indiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "D"
+    },
+    {
+      "id": 36,
+      "question": "Who won the 7th congressional district of Arizona in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Who won the 3rd congressional district of Nevada in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Who won the 18th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Who won the 11th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Who won the 9th congressional district of New Jersey in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Who won the 1st congressional district of Nebraska in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Who won the 6th congressional district of Indiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Who won the 3rd congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Who won the senate race of Ohio in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Who won the 13th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Who won the 6th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Who won the 1st congressional district of Louisiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Who won the 5th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Who won the 10th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Who won the 43rd congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Who won the 8th congressional district of Minnesota in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Who won the 2nd congressional district of Mississippi in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 53,
+      "question": "Who won the 13th congressional district of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Who won the 23rd congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Who won the 4th congressional district of Virginia in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Who won the 7th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Who won the 7th congressional district of Illinois in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Who won the 38th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Who won the 1st congressional district of Oregon in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Who won the 6th congressional district of Alabama in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Who won the 1st congressional district of Kentucky in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Who won the 33rd congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Who won the 36th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Who won the governor race of Iowa in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Who won the governor race of Colorado in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "Who won the 10th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Who won the 2nd congressional district of New Jersey in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Who won the 2nd congressional district of Kansas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Who won the 15th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Who won the 2nd congressional district of Colorado in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "Who won the 13th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "Who won the 9th congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Who won the 2nd congressional district of Louisiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Who won the 15th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "Who won the 2nd congressional district of Alabama in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Who won the 11th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 77,
+      "question": "Who won the 2nd congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Who won the 9th congressional district of Ohio in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Who won the 15th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "D"
+    },
+    {
+      "id": 80,
+      "question": "Who won the 41st congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Who won the 2nd congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "Who won the 2nd congressional district of Oregon in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Who won the 5th congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "Who won the governor race of South Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Who won the 1st congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Who won the governor race of Oregon in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "Who won the 1st congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 88,
+      "question": "Who won the 8th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Who won the 14th congressional district of Florida in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Who won the 10th congressional district of Virginia in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Who won the 8th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 92,
+      "question": "Who won the 1st congressional district of Iowa in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "Who won the 3rd congressional district of Illinois in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "Who won the 19th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "Who won the 39th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "C"
+    },
+    {
+      "id": 96,
+      "question": "Who won the 1st congressional district of Maine in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "Who won the senate race of Missouri in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D"
+    },
+    {
+      "id": 98,
+      "question": "Who won the 18th congressional district of Florida in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Who won the senate race of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Who won the 11th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A"
+    },
+    {
+      "id": 101,
+      "question": "Who won the 25th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Who won the 27th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C"
+    },
+    {
+      "id": 103,
+      "question": "Who won the 11th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Who won the senate race of Iowa in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C"
+    }
+  ],
+  "rag_predictions": [
+    {
+      "id": 5,
+      "question": "Who won the 6th congressional district of Maryland in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Maryland's 6th congressional district elects a representative to the United States House of Representatives from the northwest part of the state. The district comprises all of Garrett, Allegany, Frederick, and Washington counties as well as a portion of Montgomery County. David Trone (D) is its current representative.\nParrott ran for the U.S. House of Representatives in Maryland's 6th congressional district in 2020 and 2022, losing both times to incumbent Democrat David Trone. He ran for the 6th district for a third time in 2024, in which he was defeated by Democratic nominee April McClain-Delaney in the general election.\nKweisi Mfume ( kwy-EE-see uum-FOO-may; born Frizzell Gerard Tate; October 24, 1948) is an American politician who is the U.S. representative for Maryland's 7th congressional district, first serving from 1987 to 1996 and again since 2020. A member of the Democratic Party, Mfume first left his seat to become the president and CEO of the National Association for the Advancement of Colored People (NAACP), a position he held from 1996 to 2004. In 2006, he ran for the U.S. Senate seat being vacated by\nDavid John Trone (born September 21, 1955) is an American politician and alcoholic beverage magnate serving as the U.S. representative from Maryland's 6th congressional district since 2019. The district includes most of the western third of the state, but the bulk of its population is in the outer northern suburbs of Washington, D.C. Trone founded and co-owns Total Wine & More with his brother, Robert L. Trone, and served as the company's president until December 2016."
+    },
+    {
+      "id": 6,
+      "question": "Who won the 14th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Eric Michael Swalwell ( SWAHL-well; born November 16, 1980) is an American lawyer and politician serving as the U.S. representative from California's 14th congressional district since 2023, having previously represented the 15th district from 2013 to 2023. His district covers most of eastern Alameda County and part of central Contra Costa County. He is a member of the Democratic Party.\nCalifornia's 14th congressional district is a congressional district in the U.S. state of California. Eric Swalwell, a Democrat, has represented the district since January 2023.\nJames Varni Panetta ( p\u0259-NEH-t\u0259; born October 1, 1969) is an American lawyer, politician, and former Navy intelligence officer from the state of California. A member of the Democratic Party, he is the U.S. representative for California's 19th congressional district.  Formerly his district was numbered the 20th congressional district. His current district includes southeast San Jose and much of California's Central Coast, including Monterey, Santa Cruz, Carmel-by-the-Sea, and Paso Robles to the\nAs of the 2022 United States House of Representatives elections, the 14th district is in Alameda County and includes the cities of Hayward, Pleasanton, Livermore, Union City, Castro Valley, and parts of Dublin and Fremont. Immediately prior to that, the district included most of San Mateo County and the southwest side of San Francisco."
+    },
+    {
+      "id": 7,
+      "question": "Who won the 8th congressional district of Colorado in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Colorado's 8th congressional district is a new district in the United States House of Representatives that was apportioned after the 2020 United States census. The first congressional seat to be added to Colorado's congressional delegation since 2001, the 8th district was drawn before the 2022 elections. The district was drawn by the Colorado Independent Redistricting Commission and approved in an 11\u20131 vote on September 28, 2021, before being approved unanimously by the Colorado Supreme Court on\nYadira D. Caraveo ( y\u0259-DEER-\u0259 kair-\u0259-VAY-oh; born December 23, 1980) is an American politician and pediatrician serving as the U.S. representative for Colorado's 8th congressional district since 2023. A Democrat, she is Colorado's first Latina member of Congress.\nCaraveo represented the 31st district in the Colorado House of Representatives from 2019 to 2023. The district covered parts of Adams and Weld counties.\nCaraveo lost reelection in 2024 to Republican Gabe Evans.\nBarbara Jean Kirkmeyer (born September 15, 1958) is an American politician serving as a member of the Colorado Senate for District 23, which encompasses parts of Weld and Larimer counties in north-central Colorado. She was the Republican nominee for Colorado's 8th congressional district in the 2022 election, losing to Yadira Caraveo in a close race. Kirkmeyer declined to run for the U.S. House in 2024, instead running for re-election.\nDiana Louise DeGette ( dih-GET; born July 29, 1957) is an American lawyer and politician serving as the U.S. representative for Colorado's 1st congressional district since 1997. A member of the Democratic Party, her district is based in Denver. DeGette was a Chief Deputy Whip from 2005 to 2019 and is the dean of Colorado's congressional delegation; she served as the Colorado State Representative for the 6th district from 1993 until her election to the U.S. House."
+    },
+    {
+      "id": 8,
+      "question": "Who won the 5th congressional district of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Virginia Ann Foxx (n\u00e9e Palmieri; born June 29, 1943) is an American educator, businesswoman, and politician serving as the U.S. representative from North Carolina's 5th congressional district since 2005. A member of the Republican Party, Foxx served as Secretary of the House Republican Conference from 2013 to 2017. She was the ranking member of the House Committee on Education and Labor from 2019 to 2023, and served as the committee's chair from 2017 to 2019 and since 2023. Foxx's district\nOn February 23, 2022, the North Carolina Supreme Court approved a new map which changed the 5th district boundaries to include Alleghany, Ashe, Avery, Davie, Mitchell, Stokes, Surry, Watauga, Wilkes County and Yadkin Counties, most of Caldwell and part of Forsyth.\nThe fifth district is currently represented by Virginia Foxx, a Republican.\n2019 to 2023, and served as the committee's chair from 2017 to 2019 and since 2023. Foxx's district encompasses much of the northwestern portion of the state, including most of the city of Winston-Salem. She and fellow representative Patrick McHenry are the co-deans of North Carolina's congressional delegation.\nNorth Carolina's 5th congressional district covers the central western portion of North Carolina from the Appalachian Mountains to the western suburbs of the Piedmont Triad. The district borders Tennessee and Virginia, with the bulk of its territory in the mountains; it stretches just far enough to the east to grab its share of Forsyth County, home to most of its population."
+    },
+    {
+      "id": 9,
+      "question": "Who won the governor race of New Hampshire in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "The 2022 New Hampshire gubernatorial election was held on November 8, 2022, to elect the governor of New Hampshire. Incumbent Republican Governor Chris Sununu won election to a fourth term, defeating Democratic nominee Tom Sherman.\nChristopher Thomas Sununu ( s\u0259-NOO-noo; born November 5, 1974) is an American politician and engineer who has served since 2017 as the 82nd governor of New Hampshire.\nSununu was first elected governor of New Hampshire in 2016. He was reelected in 2018, 2020, and 2022. Sununu is the second governor in New Hampshire history (after John Lynch) to be elected to a fourth term. On July 19, 2023, he announced that he would not run for a fifth term. He endorsed Kelly Ayotte, who won the election to succeed him.\nsocioeconomic opportunity, and fiscal stability. New Hampshire is one of the least religious states and known for its libertarian-leaning political culture; it was until recently a swing state in presidential elections."
+    },
+    {
+      "id": 10,
+      "question": "Who won the at-large congressional district of North Dakota in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "North Dakota's at-large congressional district is the sole congressional district for the state of North Dakota. Based on size, it is the eighth largest congressional district in the nation.\nThe district was represented by Kelly Armstrong who served in Congress until December 2024. The district is currently vacant following his resignation to take office as a Governor of North Dakota. Republican Julie Fedorchak was voted to succeed him, and will take office in January 2025.\nThe 2024 United States Senate election in North Dakota was held on November 5, 2024, to elect a member of the United States Senate to represent the state of North Dakota. Republican incumbent Kevin Cramer was re-elected to a second term in office, defeating Democratic\u2013NPL educator Katrina Christiansen in the general election. Primary elections took place on June 11, 2024, with Cramer and Christiansen winning their respective party's nomination unopposed.\nKelly Michael Armstrong (born October 8, 1976) is an American lawyer and politician who has served as the 34th governor of North Dakota since 2024. A member of the Republican Party, he previously served as the U.S. representative for North Dakota's at-large congressional district from 2019 to 2024. He also served as the North Dakota state senator from the 36th district from 2012 to 2018 and chair of the North Dakota Republican Party from 2015 until 2018. On January 23, 2024, he announced he\nJohn Henry Hoeven III ( HOH-v\u0259n; born March 13, 1957) is an American banker and politician serving as the senior U.S. senator from North Dakota, a seat he has held since 2011. A member of the Republican Party, Hoeven served as the 31st governor of North Dakota from 2000 to 2010."
+    },
+    {
+      "id": 11,
+      "question": "Who won the 24th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A",
+      "context": "The 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs\nCharles Eugene \"Chip\" Roy (born August 7, 1972) is an American attorney and politician serving as the U.S. representative for Texas's 21st congressional district. A member of the Republican Party, Roy took office on January 3, 2019. Before his election to Congress, he served as chief of staff to Senator Ted Cruz and as first assistant attorney general of Texas. A member of and policy chair of the House Freedom Caucus, Roy is considered a member of the far-right faction of the House Republican\nRepublicans had gained one seat in the House due to a special election in the 34th district seeing Mayra Flores succeed Filemon Vela and become the first Mexican-born congresswoman. During the 2022 elections, the Democrats and Republicans each gained one of the two seats Texas gained through reapportionment. While Republicans flipped the 15th district, Democrats flipped back the 34th district, and retained the 28th district, dashing Republican hopes of a red wave in the Rio Grande Valley. This\nTexas' 24th congressional district of the United States House of Representatives covers much of the suburban area in between Fort Worth and Dallas in the state of Texas and centers along the Dallas\u2013Tarrant county line."
+    },
+    {
+      "id": 12,
+      "question": "Who won the 25th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs\nTexas's 25th congressional district of the United States House of Representatives stretches from Arlington and Fort Worth to some of its outer southwestern suburbs, as well as rural counties east of Abilene.  The district's current Representative is Roger Williams.\nLance Carter Gooden (born December 1, 1982) is an American politician serving as the U.S. representative for Texas's 5th congressional district since 2019. His district includes parts of eastern Dallas, as well as a large swath of exurban and rural territory to Dallas's east.\nRepublicans had gained one seat in the House due to a special election in the 34th district seeing Mayra Flores succeed Filemon Vela and become the first Mexican-born congresswoman. During the 2022 elections, the Democrats and Republicans each gained one of the two seats Texas gained through reapportionment. While Republicans flipped the 15th district, Democrats flipped back the 34th district, and retained the 28th district, dashing Republican hopes of a red wave in the Rio Grande Valley. This"
+    },
+    {
+      "id": 13,
+      "question": "Who won the 13th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "The 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs\nRepublicans had gained one seat in the House due to a special election in the 34th district seeing Mayra Flores succeed Filemon Vela and become the first Mexican-born congresswoman. During the 2022 elections, the Democrats and Republicans each gained one of the two seats Texas gained through reapportionment. While Republicans flipped the 15th district, Democrats flipped back the 34th district, and retained the 28th district, dashing Republican hopes of a red wave in the Rio Grande Valley. This\nThe district has been represented in the United States House of Representatives by Republican Ronny Jackson since 2021, and previously by Republican Mac Thornberry, from 1995 until his decision not to run for reelection in 2020. The district's current configuration dates from 1973, when the Panhandle-based 18th district was merged with the Texoma-based 13th. The merged district contained more of the old 18th's territory.\nTexas's 13th congressional district is a congressional district in the U.S. state of Texas that includes most of the Texas Panhandle, parts of Texoma and northwestern parts of North Texas. The principal cities in the district are Amarillo, Gainesville and Wichita Falls. It winds across the Panhandle into the South Plains, then runs east across the Red River Valley. Covering over 40,000 square miles (100,000 km2), it is the 19th-largest district by area in the nation, the 14th-largest that does"
+    },
+    {
+      "id": 14,
+      "question": "Who won the governor race of Kansas in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Laura Jeanne Kelly (born January 24, 1950) is an American politician serving since 2019 as the 48th governor of Kansas. A member of the Democratic Party, she represented the 18th district in the Kansas Senate from 2005 to 2019. Kelly was elected governor in 2018, defeating Republican nominee Kris Kobach. She was reelected in 2022, narrowly defeating Republican nominee Derek Schmidt by a 2.21% margin.\nThis was the only Democratic-held governorship up for election in 2022 in a state Donald Trump won in the 2020 presidential election, and the race was expected to be one of the most competitive gubernatorial races in the nation. Some analysts and Kansas Republican Party officials had also predicted that Dennis Pyle, who was on the ballot as an independent, would have a spoiler effect benefiting Kelly. This was the first gubernatorial election in Kansas since 1986 in which the winner was from\nThe 2022 Kansas gubernatorial election took place on November 8, 2022, to elect the governor of Kansas, with primary elections taking place on August 2, 2022. Governor Laura Kelly ran for re-election to a second term, facing Republican State Attorney General Derek Schmidt in the general election. Kelly defeated Schmidt by a margin of roughly 2.2 percentage points.\nSchmidt was the Republican nominee for governor of Kansas in the 2022 election, but narrowly lost to incumbent Democrat Laura Kelly."
+    },
+    {
+      "id": 15,
+      "question": "Who won the senate race of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "The 2022 United States Senate election in North Carolina was held on November 8, 2022, to elect a member of the United States Senate to represent the State of North Carolina.  Republican congressman Ted Budd won his first term in office, defeating Democratic nominee Cheri Beasley. Primary elections were scheduled for March 8, 2022, but were delayed by the North Carolina Supreme Court and rescheduled for May 17.\nBudd was the Republican nominee in the 2022 United States Senate election in North Carolina to replace retiring Republican senator Richard Burr. He defeated the Democratic nominee, Cheri Beasley, and subsequently took office on January 3, 2023.\nBeasley was the Democratic nominee in the 2022 United States Senate election in North Carolina. She lost to Republican nominee Ted Budd.\nTheodore Paul Budd (born October 21, 1971) is an American businessman and politician serving as the junior United States senator for North Carolina since 2023. A member of the Republican Party, he was the U.S. representative for North Carolina's 13th congressional district from 2017 to 2023."
+    },
+    {
+      "id": 16,
+      "question": "Who won the 13th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "New York's 13th congressional district is a congressional district for the United States House of Representatives in New York City, represented by Adriano Espaillat.\nNicole Malliotakis ( MAL-ee-\u0259-TAH-kiss; born November 11, 1980) is an American politician serving as the U.S. representative for New York's 11th congressional district since 2021. Her constituency covers Staten Island and southern Brooklyn.\nAdriano de Jes\u00fas Espaillat Rodr\u00edguez ( AH-dree-AH-noh ESS-pie-YAHT; born September 27, 1954) is a Dominican-American politician. He is the U.S. representative for New York's 13th congressional district and the first Dominican American and first formerly undocumented immigrant to serve in Congress. He previously served in the New York State Senate and the New York State Assembly.\nMalliotakis is the only Republican representing any part of New York City in Congress, and is one of five female Republican elected officials in New York City, with the other four serving on the New York City Council. In 2020, she defeated incumbent Representative Max Rose. She was the Republican nominee for mayor of New York City in the 2017 election, which she lost to incumbent Democrat Bill de Blasio."
+    },
+    {
+      "id": 17,
+      "question": "Who won the 2nd congressional district of Wisconsin in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Mark William Pocan ( POH-kan; born August 14, 1964) is an American politician and businessman serving as the U.S. representative from Wisconsin's 2nd congressional district since 2013. The district is based in the state capital, Madison. A member of the Democratic Party, Pocan is co-chair of the Congressional LGBT Equality Caucus and chair emeritus of the Congressional Progressive Caucus. From 1999 to 2013 he served as a member of the Wisconsin State Assembly, representing the 78th district,\nWisconsin's 2nd congressional district is a congressional district of the United States House of Representatives in southern Wisconsin, covering Dane County, Iowa County, Lafayette County, Sauk County and Green County, as well as portions of Richland County and Rock County. The district includes Madison, the state's capital, its suburbs and the surrounding areas. The district also includes the University of Wisconsin\u2013Madison campus, and like many districts of this era anchored by a college town,\nJ. Mandela Barnes  (born December 1, 1986) is an American politician who served as the 45th lieutenant governor of Wisconsin from 2019 to 2023. A member of the Democratic Party, he was the state representative for the 11th district from 2013 to 2017. Barnes is the first African American to serve as Wisconsin's lieutenant governor.\nBarnes was the Democratic nominee in the 2022 U.S. Senate election in Wisconsin, losing to incumbent Republican Senator Ron Johnson.\nthe 3rd congressional district.  Since the implementation of that map, only the Milwaukee-based 4th district is more Democratic.  John Kerry won the district in 2004 with 62% of the vote. Barack Obama also swept the district in 2008 with 69% of the vote to John McCain's 30%. Donald Trump received the lowest percentage vote of a major party presidential candidate in the district in the 21st century, with 29% in both 2016 and 2020, to Hillary Clinton and Joe Biden\u2019s 66% and 69% respectively."
+    },
+    {
+      "id": 18,
+      "question": "Who won the 14th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Georgia's 14th congressional district is a United States congressional district in Georgia. The district is represented by Republican Marjorie Taylor Greene. Located in Northwest Georgia, it was created following the 2010 census, when the state gained a 14th seat in the U.S. House of Representatives. With a Cook Partisan Voting Index of R+22, it is tied with the 9th district for the most Republican congressional district in Georgia.\nMarjorie Taylor Greene (n\u00e9e Taylor; born May 27, 1974), sometimes referred to by her initials MTG, is an American far-right politician, businesswoman, and conspiracy theorist who has been the U.S. representative for Georgia's 14th congressional district since 2021. A member of the Republican Party, she was elected to Congress in 2020 following the retirement of Republican incumbent Tom Graves and was reelected in 2022 and 2024.\nEarl LeRoy \"Buddy\" Carter  (born September 6, 1957) is an American pharmacist and politician serving as the U.S. representative for Georgia's 1st congressional district since 2015. The district is based in Savannah and includes most of the state's coastal southern portion. A member of the Republican Party, Carter served as a Georgia state representative (2005\u20132009) and Georgia state senator (2009\u20132014).\nEric Michael Swalwell ( SWAHL-well; born November 16, 1980) is an American lawyer and politician serving as the U.S. representative from California's 14th congressional district since 2023, having previously represented the 15th district from 2013 to 2023. His district covers most of eastern Alameda County and part of central Contra Costa County. He is a member of the Democratic Party."
+    },
+    {
+      "id": 19,
+      "question": "Who won the 23rd congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Ernest Anthony Gonzales II (born October 10, 1980) is an American politician and United States Navy veteran who has served as the U.S. representative for Texas's 23rd congressional district in the United States House of Representatives since 2021, representing over 800 miles of the U.S.-Mexico border. He is a member of the Republican Party.\nThe 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs\nTexas's 23rd congressional district stretches across the southwestern portion of Texas. It is a majority Hispanic district and has been represented by Republican Tony Gonzales since 2021.\nThe 23rd district runs along the majority of Texas' border with Mexico, north of the Rio Grande. It stretches from western San Antonio to El Paso, encompassing numerous county seats and towns of regional economic importance."
+    },
+    {
+      "id": 20,
+      "question": "Who won the 11th congressional district of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "North Carolina's 11th congressional district encompasses most of Western North Carolina. Since January 3, 2023, the district has been represented by Chuck Edwards.\nCharles Marion Edwards (born September 13, 1960) is an American politician serving as the U.S. representative for North Carolina's 11th congressional district since 2023. A member of the Republican Party, he represented the 48th district in the North Carolina Senate from 2016 to 2023.\nThe 2022 United States Senate election in North Carolina was held on November 8, 2022, to elect a member of the United States Senate to represent the State of North Carolina.  Republican congressman Ted Budd won his first term in office, defeating Democratic nominee Cheri Beasley. Primary elections were scheduled for March 8, 2022, but were delayed by the North Carolina Supreme Court and rescheduled for May 17."
+    },
+    {
+      "id": 21,
+      "question": "Who won the 6th congressional district of New Jersey in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Tomasz \"Tom\" P. Malinowski (; born September 23, 1965) is an American politician and diplomat who was the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for Democracy, Human Rights, and Labor in the Obama administration.\nFrank Joseph Pallone Jr. ( p\u0259-LOHN; born October 30, 1951) is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988.  He is a member of the Democratic Party. The district, numbered as the 3rd district from 1988 to 1993, is in the north-central part of the state and includes New Brunswick, Woodbridge Township, Perth Amboy, Sayreville, Edison, Piscataway and Asbury Park. Pallone is the ranking member of the House Energy and\nNew Jersey's 6th congressional district is represented by Democrat Frank Pallone, who has served the district in Congress since 1993. The district includes the northern and eastern portions of Middlesex County and the coastal areas of Monmouth County, including towns along the Raritan Bay.\nA vocal opponent of Donald Trump, Malinowski was first elected in 2018, defeating Republican incumbent Leonard Lance by five points. He was reelected in 2020 by a narrower margin against New Jersey State Senate's Minority Leader, Thomas Kean Jr. In a 2022 rematch, Kean defeated Malinowski by nearly two points."
+    },
+    {
+      "id": 22,
+      "question": "Who won the 17th congressional district of Florida in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "William Gregory Steube ( STOO-bee; born May 19, 1978) is an American attorney and politician serving as the U.S. representative for Florida's 17th congressional district since 2019. His district is based in Sarasota. A member of the Republican Party, Steube served three terms in the Florida House of Representatives, representing the Sarasota-Manatee area from 2010 to 2016, as well as two years in the Florida Senate until 2018, representing Sarasota County and the western part of Charlotte\nRonald Dion DeSantis (; born September 14, 1978) is an American politician serving since 2019  as the 46th governor of Florida. A member of the Republican Party, he served as the U.S. representative from Florida's 6th congressional district from 2013 to 2018. DeSantis was a candidate for the 2024 Republican presidential nomination, withdrawing his candidacy in January 2024.\nFlorida's 17th congressional district is an electoral district for the U.S. Congress, located in Southwest Florida. In the 2020 redistricting cycle, the district was shrunk to only include the coastal counties of Sarasota and Charlotte as well as northeastern Lee County, including most of Lehigh Acres. Other inland counties which were previously in the district were instead redistricted into the new 18th district.\nIn 2018, Waltz defeated former ambassador Nancy Soderberg and succeeded Ron DeSantis, who went on to be elected the 46th governor of Florida that same year. He was re-elected in 2020, 2022, and 2024 with over 60% of the vote in each election. Waltz serves as Chair of the House Armed Services Subcommittee on Readiness for the 118th United States Congress."
+    },
+    {
+      "id": 23,
+      "question": "Who won the 4th congressional district of Tennessee in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Scott Eugene DesJarlais ( DAY-zhar-LAY; born February 21, 1964) is an American politician and physician serving as the U.S. representative for Tennessee's 4th congressional district since 2011. The district stretches across East and Middle Tennessee.  He is a member of the Republican Party.\nThe 4th congressional district of Tennessee is a congressional district in southern Tennessee. It has been represented by Republican Scott DesJarlais since January 2011.\nMost of the district is rural, but many residents live in the suburbs of Chattanooga and Nashville. The area is very hilly, and has many well-known geographical features related to its location on the Cumberland Plateau.\nThe 2024 Tennessee State Senate elections were held on November 5, 2024, to elect 16 of the 33 seats in the Tennessee State Senate. The elections coincided with the Presidential, U.S. Senate, U.S. House, and State House elections. The primary elections were held on August 1, 2024, with the exception of presidential primaries being held on March 5.\nFollowing the 2024 elections, no seats changed hands, leaving Tennessee's State Senate delegation at a 27\u20136 Republican supermajority.\nThe district has been represented in the United States House of Representatives by Republican Ronny Jackson since 2021, and previously by Republican Mac Thornberry, from 1995 until his decision not to run for reelection in 2020. The district's current configuration dates from 1973, when the Panhandle-based 18th district was merged with the Texoma-based 13th. The merged district contained more of the old 18th's territory."
+    },
+    {
+      "id": 24,
+      "question": "Who won the 1st congressional district of Rhode Island in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "D",
+      "context": "Rhode Island's 1st congressional district is a congressional district in the U.S. state of Rhode Island.  It includes all of Bristol and Newport counties, along with parts of Providence County, including most of the city of Providence.\nThe district was made vacant in 2023 by the resignation of Democrat David Cicilline, who served from 2011 to 2023. He was  succeeded by Democrat Gabe Amo, a former Biden White House aide and the first Black person to represent Rhode Island as a member of Congress.\nSeth Michael Magaziner ( MAG-\u0259-zee-n\u0259r; born July 22, 1983) is an American investment professional and politician serving as the U.S. representative for Rhode Island's 2nd congressional district since 2023. A member of the Democratic Party, he previously served as the 31st general treasurer of Rhode Island from 2015 until 2023. Magaziner won the November 2022 election to succeed retiring representative James Langevin. in 2024, Magaziner won re-election .[1]\nDavid Nicola Cicilline ( sih-sih-LEE-nee; born July 15, 1961) is an American lawyer and politician who served as the U.S. representative for Rhode Island's 1st congressional district from 2011 to 2023. A member of the Democratic Party, he was the 36th mayor of Providence from 2003 to 2011, the first openly gay mayor of a U.S. state capital.\nThe 2020 United States Senate election in Rhode Island was held on November 3, 2020, to elect a member of the United States Senate to represent the State of Rhode Island, concurrently with the 2020 U.S. presidential election, as well as other elections to the United States Senate, elections to the United States House of Representatives and various state and local elections. Incumbent Democratic Senator Jack Reed was challenged by Republican nominee Allen Waters. Waters was later disavowed by the"
+    },
+    {
+      "id": 25,
+      "question": "Who won the 46th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Jose Luis Correa ( k\u0259-RAY-\u0259; born January 24, 1958) is an American businessman and politician serving as the U.S. representative for California's 46th congressional district since 2017. His district is based in Orange County and includes the communities of Anaheim and Santa Ana, as well as parts of Orange. A member of the Democratic Party, Correa represented the 34th district in the California State Senate from 2006 to 2014.\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nCalifornia's 46th congressional district is a congressional district in the U.S. state of California.\nIt has been represented by Democrat Lou Correa since 2017, when he succeeded Loretta Sanchez, who retired to run for the U.S. Senate. The district is based in Orange County and includes the communities of Anaheim, Santa Ana, and Stanton, as well as parts of Orange and Fullerton.  It is both the most Democratic-leaning and most Latino congressional district in Orange County.\nThe 2022 United States House of Representatives elections in California were held on November 8, 2022, to elect representatives for the 52 seats in California (reduced from 53 in the redistricting cycle following the 2020 United States census). This marked the first time in the state's history where it lost a seat."
+    },
+    {
+      "id": 26,
+      "question": "Who won the 8th congressional district of Wisconsin in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A",
+      "context": "Wisconsin's 8th congressional district is a congressional district of the United States House of Representatives in northeastern Wisconsin. It has been represented by Republican Tony Wied since November 12, 2024. It was previously vacant from April 24, 2024, following the effective date of the resignation of Mike Gallagher, a Republican. Gallagher won the open seat vacated by Reid Ribble who retired in 2016. It is also one of only two congressional districts to ever elect a Catholic priest, in\nMark William Pocan ( POH-kan; born August 14, 1964) is an American politician and businessman serving as the U.S. representative from Wisconsin's 2nd congressional district since 2013. The district is based in the state capital, Madison. A member of the Democratic Party, Pocan is co-chair of the Congressional LGBT Equality Caucus and chair emeritus of the Congressional Progressive Caucus. From 1999 to 2013 he served as a member of the Wisconsin State Assembly, representing the 78th district,\nTomasz \"Tom\" P. Malinowski (; born September 23, 1965) is an American politician and diplomat who was the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for Democracy, Human Rights, and Labor in the Obama administration.\nBradley M. Pfaff (born December 7, 1967) is an American agriculture policy administrator and Democratic politician from La Crosse County, Wisconsin.  He is a member of the Wisconsin Senate, representing Wisconsin's 32nd Senate district since 2021.  He was an unsuccessful candidate for United States House of Representatives in 2022."
+    },
+    {
+      "id": 27,
+      "question": "Who won the 4th congressional district of Wisconsin in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Wisconsin's 8th congressional district is a congressional district of the United States House of Representatives in northeastern Wisconsin. It has been represented by Republican Tony Wied since November 12, 2024. It was previously vacant from April 24, 2024, following the effective date of the resignation of Mike Gallagher, a Republican. Gallagher won the open seat vacated by Reid Ribble who retired in 2016. It is also one of only two congressional districts to ever elect a Catholic priest, in\nMark William Pocan ( POH-kan; born August 14, 1964) is an American politician and businessman serving as the U.S. representative from Wisconsin's 2nd congressional district since 2013. The district is based in the state capital, Madison. A member of the Democratic Party, Pocan is co-chair of the Congressional LGBT Equality Caucus and chair emeritus of the Congressional Progressive Caucus. From 1999 to 2013 he served as a member of the Wisconsin State Assembly, representing the 78th district,\nthe 3rd congressional district.  Since the implementation of that map, only the Milwaukee-based 4th district is more Democratic.  John Kerry won the district in 2004 with 62% of the vote. Barack Obama also swept the district in 2008 with 69% of the vote to John McCain's 30%. Donald Trump received the lowest percentage vote of a major party presidential candidate in the district in the 21st century, with 29% in both 2016 and 2020, to Hillary Clinton and Joe Biden\u2019s 66% and 69% respectively.\nGwendolynne Sophia Moore (born April 18, 1951) is an American politician serving as the U.S. representative for Wisconsin's 4th congressional district since 2005. In 2016, Moore was elected to serve as caucus whip of the Congressional Black Caucus for the 115th United States Congress. She is a member of the Democratic Party. Her district is based in Milwaukee and as a result of the 2011 redistricting also includes some Milwaukee County suburbs: Bayside, Brown Deer, Cudahy, Fox Point, Glendale,"
+    },
+    {
+      "id": 28,
+      "question": "Who won the 4th congressional district of Louisiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "A",
+      "context": "Louisiana's 4th congressional district is a congressional district in the U.S. state of Louisiana. The district is located in the northwestern part of the state and is based in Shreveport-Bossier City. It also includes the cities of Minden, DeRidder, and Natchitoches.\nThe district is currently represented by Republican Mike Johnson, who has served as Speaker of the House of Representatives since October 2023.\nJames Michael Johnson (born January 30, 1972) is an American lawyer and politician serving as the 56th speaker of the United States House of Representatives since October 25, 2023. A member of the Republican Party, he is in his fourth House term, having represented Louisiana's 4th congressional district since 2017.\nGlen Clay Higgins (born August 24, 1961) is an American politician and reserve law enforcement officer from the state of Louisiana. A Republican, Higgins is the U.S. representative for Louisiana's 3rd congressional district. The district, which contains much of the territory once represented by former governor Edwin Edwards and former U.S. senator John Breaux, is in the southwestern corner of the state and includes Lafayette, Lake Charles, and New Iberia. Higgins won the runoff election on\nScott Eugene DesJarlais ( DAY-zhar-LAY; born February 21, 1964) is an American politician and physician serving as the U.S. representative for Tennessee's 4th congressional district since 2011. The district stretches across East and Middle Tennessee.  He is a member of the Republican Party."
+    },
+    {
+      "id": 29,
+      "question": "Who won the 6th congressional district of Missouri in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Eric Wayne Burlison (born October 2, 1976) is an American politician serving as the U.S. representative from Missouri's 7th congressional district since 2023. He previously served as the representative for District 133 (Greene County) in the Missouri House of Representatives. A Republican, Burlison was elected to the Missouri House in 2008 and left office at the end of 2016. In 2018, he was elected to the Missouri Senate, representing District 20. He was reelected for a second term in the U.S\nto the Missouri Senate, representing District 20. He was reelected for a second term in the U.S House of Representatives in 2024.\nTomasz \"Tom\" P. Malinowski (; born September 23, 1965) is an American politician and diplomat who was the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for Democracy, Human Rights, and Labor in the Obama administration.\nMissouri's 6th congressional district takes in a large swath of land in northern Missouri, stretching across nearly the entire width of the state from Kansas to Illinois. Its largest voting population is centered in the northern portion of the Kansas City metropolitan area and the town of St. Joseph. The district includes much of Kansas City north of the Missouri River (including Kansas City International Airport)."
+    },
+    {
+      "id": 30,
+      "question": "Who won the senate race of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nJohn Karl Fetterman ( FET-\u0259r-m\u0259n; born August 15, 1969) is an American politician serving as the junior United States senator from Pennsylvania since 2023. A member of the Democratic Party, he served as the mayor of Braddock, Pennsylvania, from 2006 to 2019 and as the 34th lieutenant governor of Pennsylvania from 2019 to 2023.\nIn 2021, Fetterman announced his candidacy in the 2022 U.S. Senate election in Pennsylvania. He won the Democratic nomination and defeated Republican nominee Mehmet Oz in the general election with 51% of the vote. As a senator, he advocates for healthcare as a right, criminal justice reform, abolishing capital punishment, raising the federal minimum wage to $15 per hour, legalization of cannabis, and support for Israel. Fetterman was formerly referred to and called himself a progressive, but\nBudd was the Republican nominee in the 2022 United States Senate election in North Carolina to replace retiring Republican senator Richard Burr. He defeated the Democratic nominee, Cheri Beasley, and subsequently took office on January 3, 2023."
+    },
+    {
+      "id": 31,
+      "question": "Who won the 6th congressional district of Washington in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "The 2022 United States House of Representatives elections in Washington were held on November 8, 2022, to elect the 10 U.S. representatives from the state of Washington, one from each of the state's 10 congressional districts. The elections coincided with other elections to the House of Representatives, elections to the United States Senate and various state and local elections. Going into this election, the Democratic Party represented seven seats, while the Republican Party represented three\nWashington's 6th congressional district encompasses the Olympic Peninsula, the Kitsap Peninsula, and most of the city of Tacoma. Its counties include the entirety of Clallam, Kitsap, Mason, Jefferson, and Grays Harbor counties, and part of Pierce County. The 6th district has been represented in the U.S. House of Representatives by Derek Kilmer, a Democrat from Gig Harbor, since January 2013. He succeeded 36-year incumbent and fellow Democrat Norm Dicks, at the time the dean of the Washington\nDerek Christian Kilmer (born January 1, 1974) is an American politician who has been the U.S. representative for Washington's 6th congressional district since 2013. A member of the Democratic Party, he served as a member of the Washington House of Representatives from 2005 to 2007 and the Washington State Senate from 2007 to 2012.\nEstablished after the 1930 U.S. census, the 6th district is a working class district, with many of its jobs provided by tourism and the timber industry on the Pacific and Juan de Fuca coasts, and by the Puget Sound Naval Shipyard in Bremerton.\nPresidentially, the 6th leans Democratic. It was one of only two districts in Washington retained by the Democrats in the Republican realignment election of 1994."
+    },
+    {
+      "id": 32,
+      "question": "Who won the senate race of Vermont in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 United States Senate election in Vermont was held on November 8, 2022, to elect a member of the United States Senate to represent the state of Vermont. It was held concurrently with U.S. Senate elections in other states, along with elections to the United States House of Representatives and various state and local elections across the country. The incumbent senator, Democrat Patrick Leahy, announced on November 15, 2021, that he would not seek re-election to a ninth term, leaving the\nthe Democratic nomination in the 2022 United States Senate election in Vermont to succeed retiring Senator Patrick Leahy. On August 9, 2022, he won the Democratic primary. On November 8, 2022, Welch won the general election, defeating Republican nominee Gerald Malloy. Elected at age 75, he is the oldest person to become a freshman senator, a record previously held by Frederick H. Gillett.\nPrimary elections were held on August 9, 2022, with Peter Welch, the incumbent U.S. Representative from the state's at-large congressional district, winning the Democratic primary, while U.S. Army veteran Gerald Malloy won the Republican primary. In heavily Democratic Vermont, the Democratic nomination is tantamount to election, and on election day, Welch defeated Malloy in a landslide and becoming the first non-incumbent Democratic Senator in the state's history. He won all but one county in\nPeter Francis Welch (born May 2, 1947) is an American lawyer and politician serving since 2023 as the junior United States senator from Vermont. A member of the Democratic Party, he was the U.S. representative for Vermont's at-large congressional district from 2007 to 2023. He has been a major figure in Vermont politics for over four decades and is only the second Democrat to be elected a senator from the state."
+    },
+    {
+      "id": 33,
+      "question": "Who won the 4th congressional district of Ohio in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Ohio's 4th congressional district spans sections of the central part of the state. It is currently represented by Republican Jim Jordan, the current chair of the House Judiciary Committee, who has represented the district since 2007.\nAs part of the 2010 redistricting process, it was redrawn from the previous district to stretch from Lima, to include the northwestern suburbs of Columbus, up to Tiffin and Elyria.\nThe 2024 United States House of Representatives elections in Ohio were held on November 5, 2024, to elect the fifteen U.S. representatives from the State of Ohio, one from each of the state's congressional districts. The elections coincided with the 2024 U.S. presidential election, as well as other elections to the House of Representatives, an election to the United States Senate, and various state and local elections. The primary elections took place on March 19, 2024.\nThe 2022 United States House of Representatives elections in Ohio were held on November 8, 2022, to elect the 15 U.S. representatives from Ohio, one from each of the state's 15 congressional districts. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections were held on May 3, 2022.\nthe 3rd congressional district.  Since the implementation of that map, only the Milwaukee-based 4th district is more Democratic.  John Kerry won the district in 2004 with 62% of the vote. Barack Obama also swept the district in 2008 with 69% of the vote to John McCain's 30%. Donald Trump received the lowest percentage vote of a major party presidential candidate in the district in the 21st century, with 29% in both 2016 and 2020, to Hillary Clinton and Joe Biden\u2019s 66% and 69% respectively."
+    },
+    {
+      "id": 34,
+      "question": "Who won the 1st congressional district of Minnesota in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Finstad was elected to represent Minnesota's 1st congressional district in a 2022 special election, to finish the term of the late Jim Hagedorn.\nBradley Howard Finstad (born May 30, 1976) is an American politician, farmer, and agricultural consultant serving as the U.S. representative for Minnesota's 1st congressional district since 2022. Finstad represents a large section of southern Minnesota situated along the border with Iowa. A member of the Republican Party, Finstad served in the Minnesota House of Representatives from 2003 until 2009.\n2017, Walz announced that he would not run for reelection to Congress, and instead would run for governor of Minnesota. On paper, the district leans Republican, with a CPVI of R+7, but some recent elections have been among the closest in the nation, won by less than a single percentage point in both 2016 and 2018. In the 2022 general election, Republican Brad Finstad defeated the Democratic nominee by 11.5 points. His margin of victory was the largest of any candidate in the district since 2012\nThomas Earl Emmer Jr. (born March 3, 1961) is an American attorney and politician who has served as majority whip in the United States House of Representatives since 2023. A member of the Republican Party, he has represented Minnesota's 6th congressional district since 2015."
+    },
+    {
+      "id": 35,
+      "question": "Who won the 4th congressional district of Indiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Frank John Mrvan ( m\u0259r-VAN; born April 16, 1969) is an American politician who has served as the U.S. representative for Indiana's 1st congressional district since 2021. From 2005 until 2021, he served as the township trustee for North Township, Indiana. Mrvan is a member of the Democratic Party.\nThe 2022 United States House of Representatives elections in Indiana were held on November 8, 2022, to elect the nine U.S. representatives from the state of Indiana, one from each of the state's nine congressional districts. The elections coincided with other elections to the U.S. House of Representatives, elections to the U.S. Senate, and various state and local elections. Primary elections took place on May 3.\nIndiana's 4th congressional district is a congressional district in the U.S. state of Indiana. From 2003 to 2013 the district was based primarily in the central part of the state, and consisted of all of Boone, Clinton, Hendricks, Morgan, Lawrence, Montgomery, and Tippecanoe counties and parts of Fountain, Johnson, Marion, Monroe, and White counties. The district surrounded Indianapolis, including the suburban area of Greenwood, and encompassed the more exurban areas of Crawfordsville and\nThe district is currently represented by Republican Jim Baird, who succeeded Todd Rokita, who vacated his House seat to run for the Indiana U.S. Senate seat held by Democrat Joe Donnelly, losing the Republican nomination to eventual senator Mike Braun. Baird was elected on November 6."
+    },
+    {
+      "id": 36,
+      "question": "Who won the 7th congressional district of Arizona in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Ra\u00fal Manuel Grijalva ( rah-OOL grih-HAL-v\u0259; born February 19, 1948) is an American politician and activist who has served as the United States representative for Arizona's 7th congressional district since 2023 and Arizona's 3rd congressional district from 2003 to 2023. He is a member of the Democratic Party. The district was numbered as the 7th from 2003 to 2013 and includes the western third of Tucson, part of Yuma and Nogales, and some peripheral parts of metro Phoenix. Grijalva is the dean of\nDebra Kay Lesko ( LESS-koh; n\u00e9e Lorenz; born November 14, 1958) is an American politician who has represented Arizona's 8th congressional district in the U.S. House of Representatives since 2018. The district is in the West Valley portion of the Phoenix metropolitan area and includes Glendale, Surprise, Sun City, Peoria, and part of western Phoenix. A member of the Republican Party, Lesko previously served in the Arizona State Legislature from 2009 to 2018.\nArizona's 7th congressional district is a congressional district located in the U.S. state of Arizona. The district stretches along the Mexico\u2013United States border and includes the western third of Tucson, parts of Yuma and Nogales, as well as Avondale and Tolleson in Metro Phoenix. It is currently represented by Democrat Ra\u00fal Grijalva.\nThe 2022 United States House of Representatives elections in Arizona were held on November 8, 2022, to determine the nine representatives of the state of Arizona. The elections coincided with the 2022 Arizona gubernatorial election, as well as other elections to the U.S. House of Representatives, the U.S. Senate, and various other state and local elections. Despite losing the concurrent Senate and governor elections,  the Republicans flipped both the 2nd and 6th congressional districts, making"
+    },
+    {
+      "id": 37,
+      "question": "Who won the 3rd congressional district of Nevada in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Nevada's 3rd congressional district is a congressional district occupying southern Las Vegas and much of unincorporated Clark County. The district was initially created after the 2000 census. It was one of thirteen districts that would have voted for Donald Trump in the 2024 presidential election had they existed in their current configuration while being won or held by a Democrat in 2024.\nThe 2022 United States House of Representatives elections in Nevada were held on November 8, 2022, to elect the four U.S. representatives from the state of Nevada, one from each of the state's four congressional districts. The elections coincided with the Nevada gubernatorial election, as well as other elections to the U.S. House of Representatives, elections to the U.S. Senate, and various state and local elections.\nSuzanne Marie Lee (n\u00e9e Kelley; born November 7, 1966) is an American politician from the state of Nevada. As a member of the Democratic Party, she has served as the U. S. representative for Nevada's 3rd congressional district since 2019. Lee was the founding director of the Inner-City Games in Las Vegas and president of Communities In Schools of Nevada.\nRohit Khanna ( KUH-n\u0259; born September 13, 1976) is an American politician and lawyer serving as the U.S. representative from California's 17th congressional district since 2017. A member of the Democratic Party, he defeated eight-term incumbent Democratic Representative Mike Honda in the general election on November 8, 2016, after first running for the same seat in 2014. Khanna also served as the deputy assistant secretary in the United States Department of Commerce under President Barack Obama"
+    },
+    {
+      "id": 38,
+      "question": "Who won the 18th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "California's 18th congressional district is a congressional district located in the U.S. state of California. The district is currently represented by Democrat Zoe Lofgren.  Since the 2022 election, the district is landlocked and includes all of San Benito County and parts of Santa Clara and Monterey counties, including Salinas, Hollister, Watsonville, Gilroy, Soledad, and downtown and eastern San Jose.\nEric Michael Swalwell ( SWAHL-well; born November 16, 1980) is an American lawyer and politician serving as the U.S. representative from California's 14th congressional district since 2023, having previously represented the 15th district from 2013 to 2023. His district covers most of eastern Alameda County and part of central Contra Costa County. He is a member of the Democratic Party.\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nJose Luis Correa ( k\u0259-RAY-\u0259; born January 24, 1958) is an American businessman and politician serving as the U.S. representative for California's 46th congressional district since 2017. His district is based in Orange County and includes the communities of Anaheim and Santa Ana, as well as parts of Orange. A member of the Democratic Party, Correa represented the 34th district in the California State Senate from 2006 to 2014."
+    },
+    {
+      "id": 39,
+      "question": "Who won the 11th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 United States House of Representatives elections in Pennsylvania were held on November 8, 2022, to elect representatives for the seventeen seats in Pennsylvania (reduced from 18 in the redistricting cycle following the 2020 United States census).\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nSummer Lynn Lee (born November 26, 1987) is an American politician who is the U.S. representative for Pennsylvania's 12th congressional district since 2023. Lee was the Democratic nominee in the 2022 election to represent Pennsylvania's 12th congressional district in the United States House of Representatives. She won the primary by less than 1% of the vote and became the first black woman from Pennsylvania in the House of Representatives after winning the general election.\nPennsylvania's 11th congressional district is located in the southeast-central part of the state. It includes all of Lancaster County and portions of York County south and east of but not including the city of York. Republican Lloyd Smucker represents the district."
+    },
+    {
+      "id": 40,
+      "question": "Who won the 9th congressional district of New Jersey in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A",
+      "context": "New Jersey's 9th congressional district is an urban congressional district in the U.S. state of New Jersey, and was represented in Congress by Democrat Bill Pascrell until his death in 2024, first elected in 1996 from the old 8th district. The 9th district consists largely of municipalities in Bergen and Passaic Counties. It was one of thirteen districts that would have voted for Donald Trump in the 2024 presidential election had they existed in their current configuration while being won or\nTomasz \"Tom\" P. Malinowski (; born September 23, 1965) is an American politician and diplomat who was the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for Democracy, Human Rights, and Labor in the Obama administration.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nDue to redistricting following the 2010 census, portions of the old 9th district were shifted to the 5th district and the new 8th district, as part of a reduction in congressional districts from 13 to 12 in New Jersey. The new congressional map resulted in Pascrell's hometown of Paterson being added to the 9th district, which had been represented by Steve Rothman, a fellow Democrat who, like Pascrell, entered Congress after winning a seat in the 1996 election. In 2012, both incumbents ran for"
+    },
+    {
+      "id": 41,
+      "question": "Who won the 1st congressional district of Nebraska in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Anthony Vargas (born September 2, 1984) is an American politician and former educator serving as a member of the Nebraska Legislature. Vargas represents the 7th district, which covers all of downtown Omaha and much of southeastern Omaha.\nVargas ran for Congress in Nebraska's 2nd congressional district in both 2022 and 2024, losing both times to incumbent Republican Don Bacon.\nNebraska's 1st congressional district is a congressional district in the U.S. state of Nebraska that encompasses most of its eastern quarter, except for Omaha and some of its suburbs, which are part of the 2nd congressional district. It includes the state capital Lincoln, as well as the cities of Bellevue, Fremont, and Norfolk. Following the 2010 United States census, the 1st congressional district was changed to include an eastern section of Sarpy County; Dakota County was moved to the 3rd\nBradley Howard Finstad (born May 30, 1976) is an American politician, farmer, and agricultural consultant serving as the U.S. representative for Minnesota's 1st congressional district since 2022. Finstad represents a large section of southern Minnesota situated along the border with Iowa. A member of the Republican Party, Finstad served in the Minnesota House of Representatives from 2003 until 2009.\nFinstad was elected to represent Minnesota's 1st congressional district in a 2022 special election, to finish the term of the late Jim Hagedorn."
+    },
+    {
+      "id": 42,
+      "question": "Who won the 6th congressional district of Indiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Frank John Mrvan ( m\u0259r-VAN; born April 16, 1969) is an American politician who has served as the U.S. representative for Indiana's 1st congressional district since 2021. From 2005 until 2021, he served as the township trustee for North Township, Indiana. Mrvan is a member of the Democratic Party.\nGregory Joseph Pence (born November 14, 1956) is an American businessman and politician serving as the U.S. representative for Indiana's 6th congressional district since 2019. The district serves much of east-central Indiana, including Pence's hometown of Columbus, as well as Greenfield, Richmond, Shelbyville, and the southern third of Indianapolis. A member of the Republican Party, he is the older brother of former U.S. vice president Mike Pence, who represented the district from 2001 to 2013.\nThe district is currently represented by Republican Greg Pence. He is the brother of former U.S. Vice President Mike Pence, who represented this district before serving as Governor of Indiana and Vice President of the United States. Greg Pence was elected on November 6, 2018, after the previous incumbent Luke Messer announced his retirement to run for the U.S. Senate in 2018. With a Cook Partisan Voting Index rating of R+19, it is one of the most Republican districts in Indiana.\nIndiana's 6th congressional district is a congressional district in the U.S. state of Indiana. The district takes in a portion of eastern and central Indiana as of the 2020 census, including Columbus and Richmond, some of Cincinnati's Indiana suburbs, most of Indianapolis's southern suburbs, and a sliver of Indianapolis itself."
+    },
+    {
+      "id": 43,
+      "question": "Who won the 3rd congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Hillary Jeanne Scholten ( SKOHL-t\u0259n; born February 22, 1982) is an American attorney and politician serving as the U.S. representative from Michigan's 3rd congressional district since 2023. A member of the Democratic Party, she represents Grand Rapids and much of the urban core of West Michigan, in a district once represented by former President Gerald Ford.\nDaniel Timothy Kildee (; born August 11, 1958) is an American politician serving as a U.S. representative from Michigan since 2013, representing the state's 8th congressional district since 2023. A member of the Democratic Party, he previously served as the Genesee County Treasurer from 1996 to 2013, before succeeding his uncle, Dale Kildee, in Congress. From 1977 to 2009, Kildee was a municipal elected official. On November 16, 2023, he announced he would not seek re-election in 2024.\nTudor Dixon (n\u00e9e Makary; born May 5, 1977) is an American politician, businesswoman and conservative political commentator. A member of the Republican Party, Dixon was the party's nominee for Governor of Michigan in the 2022 election. She became the Michigan Republicans' first female nominee for governor. Dixon lost the election to incumbent Democratic governor Gretchen Whitmer by 10.6 points.\nMichigan's 3rd congressional district is a U.S. congressional district in West Michigan. From 2003 to 2013, it consisted of the counties of Barry and Ionia, as well as all except the northwestern portion of Kent, including the city of Grand Rapids. In 2012 redistricting, the district was extended to Battle Creek. In 2022, the district was condensed to the greater Grand Rapids and Muskegon areas, including portions of Kent, Muskegon, and Ottawa counties. Redistricting removed Barry, Calhoun, and"
+    },
+    {
+      "id": 44,
+      "question": "Who won the senate race of Ohio in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 United States Senate election in Ohio was held on November 8, 2022, to elect a member of the United States Senate to represent the State of Ohio. Republican writer and venture capitalist JD Vance defeated Democratic U.S. Representative Tim Ryan to succeed retiring incumbent Republican Rob Portman.\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nGesiotto Gilbert was the Republican nominee in the 2022 election in Ohio's 13th congressional district, losing to Democrat Emilia Sykes.\nThe 2022 United States House of Representatives elections in Ohio were held on November 8, 2022, to elect the 15 U.S. representatives from Ohio, one from each of the state's 15 congressional districts. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections were held on May 3, 2022."
+    },
+    {
+      "id": 45,
+      "question": "Who won the 13th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Georgia's 13th congressional district is a congressional district in the U.S. state of Georgia. The district is currently represented by Democrat David Scott, though the district's boundaries have been redrawn following the 2010 census, which granted an additional congressional seat to Georgia.  The first election using the new district boundaries (listed below) were the 2012 congressional elections.\nGeorgia's 14th congressional district is a United States congressional district in Georgia. The district is represented by Republican Marjorie Taylor Greene. Located in Northwest Georgia, it was created following the 2010 census, when the state gained a 14th seat in the U.S. House of Representatives. With a Cook Partisan Voting Index of R+22, it is tied with the 9th district for the most Republican congressional district in Georgia.\nMarjorie Taylor Greene (n\u00e9e Taylor; born May 27, 1974), sometimes referred to by her initials MTG, is an American far-right politician, businesswoman, and conspiracy theorist who has been the U.S. representative for Georgia's 14th congressional district since 2021. A member of the Republican Party, she was elected to Congress in 2020 following the retirement of Republican incumbent Tom Graves and was reelected in 2022 and 2024.\nThe 2024 United States House of Representatives elections in Georgia were held on November 5, 2024, to elect the fourteen U.S. representatives from the State of Georgia, one from each of the state's congressional districts. The elections coincided with the 2024 U.S. presidential election, as well as other elections to the House of Representatives, elections to the United States Senate, and various state and local elections. The primary elections were held on May 21, 2024."
+    },
+    {
+      "id": 46,
+      "question": "Who won the 6th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Pennsylvania's 6th congressional district is a district in the state of Pennsylvania. It includes almost all of Chester County and the southeastern portion of Berks County including the city of Reading and its southeastern suburbs. The district is represented by Democrat Chrissy Houlahan, who has served in Congress since 2019. As currently drawn, the district is among the wealthiest in Pennsylvania. The Supreme Court of Pennsylvania redrew the district in February 2018 after ruling the previous\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nThe 2022 United States House of Representatives elections in Pennsylvania were held on November 8, 2022, to elect representatives for the seventeen seats in Pennsylvania (reduced from 18 in the redistricting cycle following the 2020 United States census)."
+    },
+    {
+      "id": 47,
+      "question": "Who won the 1st congressional district of Louisiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Louisiana's 1st congressional district is a congressional district in the U.S. state of Louisiana. The district comprises land from the northern shore of Lake Pontchartrain south to the Mississippi River delta. It covers most of New Orleans' suburbs, as well as a sliver of New Orleans itself.\nThe district is currently represented by Republican House majority leader Steve Scalise. With a Cook Partisan Voting Index rating of R+23, it is the most Republican district in Louisiana.\nLouisiana's 4th congressional district is a congressional district in the U.S. state of Louisiana. The district is located in the northwestern part of the state and is based in Shreveport-Bossier City. It also includes the cities of Minden, DeRidder, and Natchitoches.\nThe district is currently represented by Republican Mike Johnson, who has served as Speaker of the House of Representatives since October 2023.\nStephen Joseph Scalise ( sk\u0259-LEESS; born October 6, 1965) is an American politician who has been serving as the House majority leader since 2023 and the U.S. representative for Louisiana's 1st congressional district since 2008. A member of the Republican Party, he served as the House majority whip from 2014 to 2019 and the House minority whip 2019 to 2023.\nGarret Neal Graves (born January 31, 1972) is an American politician serving as the United States representative from Louisiana's 6th congressional district since 2015. He is a member of the Republican Party. After redistricting dismantled his district, he declined to run for re-election in 2024."
+    },
+    {
+      "id": 48,
+      "question": "Who won the 5th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "In the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nLance Carter Gooden (born December 1, 1982) is an American politician serving as the U.S. representative for Texas's 5th congressional district since 2019. His district includes parts of eastern Dallas, as well as a large swath of exurban and rural territory to Dallas's east.\nThe 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs"
+    },
+    {
+      "id": 49,
+      "question": "Who won the 10th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Georgia's 10th congressional district is a congressional district in the U.S. state of Georgia. The district is currently represented by Republican Mike Collins, and includes a large swath of urban and rural territory between Atlanta and Augusta.\nThe district's boundaries were redrawn following the 2010 census, which granted an additional congressional seat to Georgia.  The first election using the new district boundaries (listed below) were the 2012 congressional elections.\nGeorgia's 14th congressional district is a United States congressional district in Georgia. The district is represented by Republican Marjorie Taylor Greene. Located in Northwest Georgia, it was created following the 2010 census, when the state gained a 14th seat in the U.S. House of Representatives. With a Cook Partisan Voting Index of R+22, it is tied with the 9th district for the most Republican congressional district in Georgia.\nThe 2022 United States House of Representatives elections in Georgia were held on November 8, 2022, to elect the 14 U.S. representatives from the state of Georgia, one from each of the state's congressional districts. The elections coincided with the Georgia gubernatorial election, as well as other elections to the U.S. House of Representatives, elections to the U.S. Senate, and various state and local elections.\nGeorgia's 13th congressional district is a congressional district in the U.S. state of Georgia. The district is currently represented by Democrat David Scott, though the district's boundaries have been redrawn following the 2010 census, which granted an additional congressional seat to Georgia.  The first election using the new district boundaries (listed below) were the 2012 congressional elections."
+    },
+    {
+      "id": 50,
+      "question": "Who won the 43rd congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Eric Michael Swalwell ( SWAHL-well; born November 16, 1980) is an American lawyer and politician serving as the U.S. representative from California's 14th congressional district since 2023, having previously represented the 15th district from 2013 to 2023. His district covers most of eastern Alameda County and part of central Contra Costa County. He is a member of the Democratic Party.\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nJose Luis Correa ( k\u0259-RAY-\u0259; born January 24, 1958) is an American businessman and politician serving as the U.S. representative for California's 46th congressional district since 2017. His district is based in Orange County and includes the communities of Anaheim and Santa Ana, as well as parts of Orange. A member of the Democratic Party, Correa represented the 34th district in the California State Senate from 2006 to 2014.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025."
+    },
+    {
+      "id": 51,
+      "question": "Who won the 8th congressional district of Minnesota in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "A",
+      "context": "Finstad was elected to represent Minnesota's 1st congressional district in a 2022 special election, to finish the term of the late Jim Hagedorn.\n2017, Walz announced that he would not run for reelection to Congress, and instead would run for governor of Minnesota. On paper, the district leans Republican, with a CPVI of R+7, but some recent elections have been among the closest in the nation, won by less than a single percentage point in both 2016 and 2018. In the 2022 general election, Republican Brad Finstad defeated the Democratic nominee by 11.5 points. His margin of victory was the largest of any candidate in the district since 2012\nThe district is notable for being the last one assigned after both the 2010 and 2020 censuses. After the 2020 census in particular, in spite of early predictions that it would be eliminated, Minnesota held onto the district by a mere 89 people, beating out New York's 27th district for the last spot.\nThe district is represented by Republican Pete Stauber.\nBradley Howard Finstad (born May 30, 1976) is an American politician, farmer, and agricultural consultant serving as the U.S. representative for Minnesota's 1st congressional district since 2022. Finstad represents a large section of southern Minnesota situated along the border with Iowa. A member of the Republican Party, Finstad served in the Minnesota House of Representatives from 2003 until 2009."
+    },
+    {
+      "id": 52,
+      "question": "Who won the 2nd congressional district of Mississippi in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Bennie Gordon Thompson (born January 28, 1948) is an American politician serving as the U.S. representative for Mississippi's 2nd congressional district since 1993. A member of the Democratic Party, Thompson served as the chair of the Committee on Homeland Security from 2007 to 2011 and from 2019 to 2023. He was both the first Democrat and the first African American to chair the committee. He is the dean of Mississippi's congressional delegation since 2018 after Thad Cochran left Congress, as\nthe dean of Mississippi's congressional delegation since 2018 after Thad Cochran left Congress, as well as its only Democrat.\nMississippi's 2nd congressional district (MS-2) covers much of Western Mississippi. It includes most of Jackson, the riverfront cities of Greenville, Natchez and Vicksburg and the interior market cities of Clarksdale, Greenwood and Clinton. The district is approximately 275 miles (443 km) long, 180 miles (290 km) wide and borders the Mississippi River; it encompasses much of the Mississippi Delta, for a total of 28 counties plus parts of Hinds and Madison. It is the only majority-black district\nBudd was the Republican nominee in the 2022 United States Senate election in North Carolina to replace retiring Republican senator Richard Burr. He defeated the Democratic nominee, Cheri Beasley, and subsequently took office on January 3, 2023."
+    },
+    {
+      "id": 53,
+      "question": "Who won the 13th congressional district of North Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "George Wilmarth \"Wiley\" Nickel III (born November 23, 1975) is an American attorney and Democratic politician serving as the U.S. representative for North Carolina's 13th congressional district since 2023.\nNickel served as a member of the North Carolina Senate from the 16th district from 2019 to 2023. He was elected to the House of Representatives in 2022. On December 16, 2023, Nickel made the decision to not seek re-election after his seat was redrawn to heavily favor the Republican party.\nTheodore Paul Budd (born October 21, 1971) is an American businessman and politician serving as the junior United States senator for North Carolina since 2023. A member of the Republican Party, he was the U.S. representative for North Carolina's 13th congressional district from 2017 to 2023.\nThe 2022 United States Senate election in North Carolina was held on November 8, 2022, to elect a member of the United States Senate to represent the State of North Carolina.  Republican congressman Ted Budd won his first term in office, defeating Democratic nominee Cheri Beasley. Primary elections were scheduled for March 8, 2022, but were delayed by the North Carolina Supreme Court and rescheduled for May 17.\nNorth Carolina's 11th congressional district encompasses most of Western North Carolina. Since January 3, 2023, the district has been represented by Chuck Edwards."
+    },
+    {
+      "id": 54,
+      "question": "Who won the 23rd congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "California's 23rd congressional district is a congressional district in the U.S. state of California. The district is represented in the 118th United States Congress by Jay Obernolte.\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nJose Luis Correa ( k\u0259-RAY-\u0259; born January 24, 1958) is an American businessman and politician serving as the U.S. representative for California's 46th congressional district since 2017. His district is based in Orange County and includes the communities of Anaheim and Santa Ana, as well as parts of Orange. A member of the Democratic Party, Correa represented the 34th district in the California State Senate from 2006 to 2014.\nCalifornia's 18th congressional district is a congressional district located in the U.S. state of California. The district is currently represented by Democrat Zoe Lofgren.  Since the 2022 election, the district is landlocked and includes all of San Benito County and parts of Santa Clara and Monterey counties, including Salinas, Hollister, Watsonville, Gilroy, Soledad, and downtown and eastern San Jose."
+    },
+    {
+      "id": 55,
+      "question": "Who won the 4th congressional district of Virginia in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "The 2023 Virginia's 4th congressional district special election was a special election to the U.S. House of Representatives that was held to fill Virginia's 4th congressional district for the remainder of the 118th United States Congress. The seat became vacant after incumbent Democrat Donald McEachin died on November 28, 2022, of colorectal cancer. State Senator Jennifer McClellan was declared the victor shortly after the polls closed, winning in a landslide against her Republican opponent.\nHeights, Emporia, Hopewell, Petersburg, and Richmond. The district is currently represented by Democrat Jennifer McClellan, who was elected to the seat after she defeated Republican Leon Benjamin in the February 21, 2023, special election, caused by the death of incumbent Donald McEachin (D) on November 28, 2022.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nVirginia's fourth congressional district is a United States congressional district in the state of Virginia, taking in most of the area between Richmond and the North Carolina state line. It covers all or part of the counties of Brunswick, Charles City, Chesterfield, Dinwiddie, Greensville, Henrico, Prince George, Southampton, Surry, and Sussex, and all or part of the independent cities of Colonial Heights, Emporia, Hopewell, Petersburg, and Richmond. The district is currently represented by"
+    },
+    {
+      "id": 56,
+      "question": "Who won the 7th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Pennsylvania's 7th congressional district includes all of Carbon, Lehigh, and Northampton Counties, and parts of Monroe County. The district is represented by Democrat Susan Wild. She was defeated by Republican Ryan Mackenzie and he will take office with the new congress in January 2025.\nPennsylvania's 6th congressional district is a district in the state of Pennsylvania. It includes almost all of Chester County and the southeastern portion of Berks County including the city of Reading and its southeastern suburbs. The district is represented by Democrat Chrissy Houlahan, who has served in Congress since 2019. As currently drawn, the district is among the wealthiest in Pennsylvania. The Supreme Court of Pennsylvania redrew the district in February 2018 after ruling the previous\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025."
+    },
+    {
+      "id": 57,
+      "question": "Who won the 7th congressional district of Illinois in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "The 7th congressional district of Illinois covers parts of Cook County, as of the 2023 redistricting that followed the 2020 census. All or parts of Broadview, Bellwood, Chicago, Forest Park, Hillside, Oak Park, La Grange Park, Maywood, and Westchester are included. Democrat Danny K. Davis has represented the district since January 1997. With a Cook Partisan Voting Index rating of D+36, it is the most Democratic district in Illinois.\nBradley Scott Schneider (born August 20, 1961) is an American businessman and politician who is the U.S. representative for Illinois's 10th congressional district since 2017 and from 2013 to 2015. The district includes many of Chicago's northern suburbs in the Chicago metropolitan area. Its most populous city is Waukegan, an industrial suburb on Lake Michigan.\nTomasz \"Tom\" P. Malinowski (; born September 23, 1965) is an American politician and diplomat who was the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for Democracy, Human Rights, and Labor in the Obama administration.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025."
+    },
+    {
+      "id": 58,
+      "question": "Who won the 38th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A",
+      "context": "Kevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nCalifornia's 18th congressional district is a congressional district located in the U.S. state of California. The district is currently represented by Democrat Zoe Lofgren.  Since the 2022 election, the district is landlocked and includes all of San Benito County and parts of Santa Clara and Monterey counties, including Salinas, Hollister, Watsonville, Gilroy, Soledad, and downtown and eastern San Jose.\nJose Luis Correa ( k\u0259-RAY-\u0259; born January 24, 1958) is an American businessman and politician serving as the U.S. representative for California's 46th congressional district since 2017. His district is based in Orange County and includes the communities of Anaheim and Santa Ana, as well as parts of Orange. A member of the Democratic Party, Correa represented the 34th district in the California State Senate from 2006 to 2014.\nThomas Miller McClintock II ( m\u0259k-LIN-tok; born July 10, 1956) is an American politician serving as the U.S. representative for California's 5th congressional district since 2009 (known as the 4th congressional district until 2023). His district stretches from the Sacramento suburbs to the outer suburbs of Fresno; it includes Yosemite National Park. A member of the Republican Party, McClintock served as a California state assemblyman from 1982 to 1992 and from 1996 to 2000, when he became a"
+    },
+    {
+      "id": 59,
+      "question": "Who won the 1st congressional district of Oregon in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Suzanne Marie Bonamici ( BONN-\u0259-MEE-chee; born October 14, 1954) is an American lawyer and politician serving as the U.S. representative for Oregon's 1st congressional district, a seat she was first elected to in a 2012 special election. The district includes most of Portland west of the Willamette River, as well as all of Columbia, Clatsop, and Washington counties.\nValerie Anne Hoyle (n\u00e9e Toomey; born February 14, 1964) is an American politician serving as the U.S. representative for Oregon's 4th congressional district since 2023. Until 2023, she served as the commissioner of Oregon's Bureau of Labor and Industries (BOLI) (commonly called the \"Labor Commissioner\").\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nA Democrat, Hoyle formerly served in the Oregon House of Representatives, representing District 14, which includes West Eugene, Junction City, and Cheshire. She was appointed to the House in August 2009 and reelected to full terms in 2010, 2012 and 2014.\nIn December 2021, Hoyle announced her candidacy for the U.S. House of Representatives in 2022. The seat was open after incumbent Peter DeFazio decided not to run for reelection."
+    },
+    {
+      "id": 60,
+      "question": "Who won the 6th congressional district of Alabama in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Garret Neal Graves (born January 31, 1972) is an American politician serving as the United States representative from Louisiana's 6th congressional district since 2015. He is a member of the Republican Party. After redistricting dismantled his district, he declined to run for re-election in 2024.\nWilliam Gregory Steube ( STOO-bee; born May 19, 1978) is an American attorney and politician serving as the U.S. representative for Florida's 17th congressional district since 2019. His district is based in Sarasota. A member of the Republican Party, Steube served three terms in the Florida House of Representatives, representing the Sarasota-Manatee area from 2010 to 2016, as well as two years in the Florida Senate until 2018, representing Sarasota County and the western part of Charlotte\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025."
+    },
+    {
+      "id": 61,
+      "question": "Who won the 1st congressional district of Kentucky in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "D",
+      "context": "Kentucky's 1st congressional district is a congressional district in the U.S. state of Kentucky. Located in Western Kentucky, and stretching into Central Kentucky, the district takes in Henderson, Hopkinsville, Madisonville, Paducah, Murray, Danville, and Frankfort. The district is represented by Republican James Comer who won a special election to fill the seat of Rep. Ed Whitfield who resigned in September 2016.  Comer also won election to the regular term to begin January 3, 2017.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nTracey Robert Mann (born December 17, 1976) is an American businessman and politician who has served as the U.S. representative from Kansas's 1st congressional district since 2021. The district, popularly known as \"the Big First,\" includes parts of 63 counties in central and western Kansas and is the seventh-largest district in the nation that does not cover an entire state.\nThe district is currently represented by Republican Greg Pence. He is the brother of former U.S. Vice President Mike Pence, who represented this district before serving as Governor of Indiana and Vice President of the United States. Greg Pence was elected on November 6, 2018, after the previous incumbent Luke Messer announced his retirement to run for the U.S. Senate in 2018. With a Cook Partisan Voting Index rating of R+19, it is one of the most Republican districts in Indiana."
+    },
+    {
+      "id": 62,
+      "question": "Who won the 33rd congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Texas's 33rd congressional district is a district that was created as a result of the 2010 census. The first candidates ran in the 2012 House elections, and were seated for the 113th United States Congress.\nTexas's 33rd congressional district is composed of two counties in Texas\u2014Dallas County and Tarrant County. In Dallas County, the district covers parts of Dallas, Irving, Grand Prairie, Farmers Branch, Carrollton and all of Cockrell Hill. In Tarrant County, the district includes parts of Arlington, Forest Hill, Fort Worth, Grand Prairie, Haltom City, Saginaw and Sansom Park, and all of Everman.\nIt is currently represented by Democrat Marc Veasey.\nErnest Anthony Gonzales II (born October 10, 1980) is an American politician and United States Navy veteran who has served as the U.S. representative for Texas's 23rd congressional district in the United States House of Representatives since 2021, representing over 800 miles of the U.S.-Mexico border. He is a member of the Republican Party.\nThe 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs"
+    },
+    {
+      "id": 63,
+      "question": "Who won the 36th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Ted Win-Ping Lieu (Chinese: \u5289\u96f2\u5e73;  LEW; born March 29, 1969) is an American lawyer and politician who has represented California's 36th congressional district in the United States House of Representatives since 2023. He represented the 33rd congressional district from 2015 to 2023. The district includes South Bay and Westside regions of Los Angeles, as well as Beverly Hills, Santa Monica, the Palos Verdes Peninsula, and Beach Cities.\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021.\nJose Luis Correa ( k\u0259-RAY-\u0259; born January 24, 1958) is an American businessman and politician serving as the U.S. representative for California's 46th congressional district since 2017. His district is based in Orange County and includes the communities of Anaheim and Santa Ana, as well as parts of Orange. A member of the Democratic Party, Correa represented the 34th district in the California State Senate from 2006 to 2014.\nEric Michael Swalwell ( SWAHL-well; born November 16, 1980) is an American lawyer and politician serving as the U.S. representative from California's 14th congressional district since 2023, having previously represented the 15th district from 2013 to 2023. His district covers most of eastern Alameda County and part of central Contra Costa County. He is a member of the Democratic Party."
+    },
+    {
+      "id": 64,
+      "question": "Who won the governor race of Iowa in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 Iowa gubernatorial election was held on November 8, 2022, to elect the governor of Iowa. Incumbent Republican Governor Kim Reynolds won re-election to a second full term in a landslide, defeating Democratic nominee Deidre DeJear with 58.0% of the vote.\nKimberly Kay Reynolds (n\u00e9e Strawn, August 4, 1959) is an American politician serving since 2017 as the 43rd governor of Iowa. A member of the Republican Party, she served as the 46th lieutenant governor of Iowa from 2011 to 2017.\nElizabeth Ann Mathis (n\u00e9e Rumann, 1958) is an American politician, non-profit executive and former broadcast journalist who has served as an Iowa State Senator since 2011. A member of the Democratic Party, she was elected to represent the 18th district in a November 2011 special election and re-elected to the redrawn 34th district in 2012. Mathis was the Democratic nominee for Iowa's 1st congressional district in 2022, losing the general election to incumbent Republican Ashley Hinson.\nA general election was held in the U.S. state of Iowa on November 8, 2022. All of Iowa's executive officers were up for election, as well as a United States Senate seat, all four of Iowa's seats in the United States House of Representatives, 25 (half) of the seats in the Iowa Senate, and all 100 seats in the Iowa House of Representatives. Primary elections were held on June 7, 2022."
+    },
+    {
+      "id": 65,
+      "question": "Who won the governor race of Colorado in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "The 2022 Colorado gubernatorial election was held on November 8, 2022.  Incumbent Democratic governor Jared Polis won re-election to a second term, defeating Republican University of Colorado regent Heidi Ganahl in a landslide. Ganahl conceded on election night. The primary election was held on June 28.\nGanahl was the Republican nominee for governor of Colorado in the 2022 election, losing to Democrat Jared Polis.\nBarbara Jean Kirkmeyer (born September 15, 1958) is an American politician serving as a member of the Colorado Senate for District 23, which encompasses parts of Weld and Larimer counties in north-central Colorado. She was the Republican nominee for Colorado's 8th congressional district in the 2022 election, losing to Yadira Caraveo in a close race. Kirkmeyer declined to run for the U.S. House in 2024, instead running for re-election.\nPolis's 2022 victory marked the first time in American history that an openly gay politician was re-elected as the governor of a state. Polis had the best performance for a re-elected Colorado governor since Bill Owens in 2002, the best for a Democrat since Roy Romer in 1990, and the highest raw vote total ever in a Colorado gubernatorial race."
+    },
+    {
+      "id": 66,
+      "question": "Who won the 10th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "B",
+      "context": "New York's 10th congressional district is a congressional district for the United States House of Representatives currently represented by Democrat Dan Goldman. The district contains all of Lower Manhattan and the western Brooklyn neighborhoods of Brooklyn Heights, DUMBO, Cobble Hill, Carroll Gardens, Red Hook, Gowanus, Prospect Heights, Park Slope, Windsor Terrace, and Sunset Park. The district also contains portions of Borough Park and Bay Ridge in Brooklyn, and all of Prospect Park.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nNew York's 13th congressional district is a congressional district for the United States House of Representatives in New York City, represented by Adriano Espaillat.\nNicole Malliotakis ( MAL-ee-\u0259-TAH-kiss; born November 11, 1980) is an American politician serving as the U.S. representative for New York's 11th congressional district since 2021. Her constituency covers Staten Island and southern Brooklyn."
+    },
+    {
+      "id": 67,
+      "question": "Who won the 2nd congressional district of New Jersey in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "New Jersey's 2nd congressional district, based in Southern New Jersey, is represented by Republican  Jeff Van Drew. He was first elected as a Democrat in 2018, but announced on December 19, 2019, that he would be switching parties. The district, which is New Jersey's largest geographically, is a Republican-leaning seat that has shifted to the right since the late 2010s.\nJefferson H. Van Drew (born February 23, 1953) is an American politician serving as the U.S. representative for New Jersey's 2nd congressional district since 2019. Formerly a Democrat, he has been a member of the Republican Party since 2020.\nNew Jersey's 9th congressional district is an urban congressional district in the U.S. state of New Jersey, and was represented in Congress by Democrat Bill Pascrell until his death in 2024, first elected in 1996 from the old 8th district. The 9th district consists largely of municipalities in Bergen and Passaic Counties. It was one of thirteen districts that would have voted for Donald Trump in the 2024 presidential election had they existed in their current configuration while being won or\nVan Drew was the Democratic nominee in New Jersey's 2nd congressional district in the 2018 election. He was elected with 52.9% of the vote to Republican Seth Grossman's 45.2%. After opposing the first impeachment of Donald Trump, Van Drew joined the Republican Party shortly afterward. He was reelected in 2020, defeating Democratic challenger Amy Kennedy. Van Drew later supported the unsuccessful attempts to overturn the 2020 United States presidential election."
+    },
+    {
+      "id": 68,
+      "question": "Who won the 2nd congressional district of Kansas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "States House of Representatives in Kansas's 2nd congressional district. He defeated incumbent U.S. representative Steve Watkins in the primary election, amid corruption allegations against Watkins, and won the general election against Topeka mayor Michelle De La Isla. On April 18, 2024, LaTurner announced he would not be seeking reelection.\nKansas' 2nd congressional district is a congressional district in the U.S. state of Kansas that covers most of the eastern part of the state, except for the core of the Kansas City Metropolitan Area. The district encompasses less than a quarter of the state. The state capital of Topeka, the cities of Emporia, Junction City and Leavenworth and most of Kansas City are located within this district. The district is currently represented by Republican Jake LaTurner.\nJacob Andrew Joseph LaTurner (born February 17, 1988) is an American politician serving as the U.S. representative for Kansas's 2nd congressional district. A member of the Republican Party, LaTurner was the 40th Kansas state treasurer from 2017 to 2021 and a state senator from the 13th district from 2013 to 2017.\nTracey Robert Mann (born December 17, 1976) is an American businessman and politician who has served as the U.S. representative from Kansas's 1st congressional district since 2021. The district, popularly known as \"the Big First,\" includes parts of 63 counties in central and western Kansas and is the seventh-largest district in the nation that does not cover an entire state."
+    },
+    {
+      "id": 69,
+      "question": "Who won the 15th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "New York's 15th congressional district for the United States House of Representatives is located in New York City, State of New York. The district has been represented by Democrat Ritchie Torres since 2021. It is the poorest congressional district in the United States.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nNew York's 13th congressional district is a congressional district for the United States House of Representatives in New York City, represented by Adriano Espaillat.\nRitchie John Torres (born March 12, 1988) is an American politician from New York. A member of the Democratic Party, Torres is the U.S. representative for New York's 15th congressional district. The district covers most of the South Bronx and is the poorest congressional district in the United States by median income as well as one of the smallest districts by area in the country, covering only a few square miles."
+    },
+    {
+      "id": 70,
+      "question": "Who won the 2nd congressional district of Colorado in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Yadira D. Caraveo ( y\u0259-DEER-\u0259 kair-\u0259-VAY-oh; born December 23, 1980) is an American politician and pediatrician serving as the U.S. representative for Colorado's 8th congressional district since 2023. A Democrat, she is Colorado's first Latina member of Congress.\nCaraveo represented the 31st district in the Colorado House of Representatives from 2019 to 2023. The district covered parts of Adams and Weld counties.\nCaraveo lost reelection in 2024 to Republican Gabe Evans.\nColorado's 8th congressional district is a new district in the United States House of Representatives that was apportioned after the 2020 United States census. The first congressional seat to be added to Colorado's congressional delegation since 2001, the 8th district was drawn before the 2022 elections. The district was drawn by the Colorado Independent Redistricting Commission and approved in an 11\u20131 vote on September 28, 2021, before being approved unanimously by the Colorado Supreme Court on\nThe 2022 United States Senate election in Colorado was held on November 8, 2022. Incumbent Democratic Senator Michael Bennet won reelection to a third term, defeating the Republican candidate, businessman Joe O'Dea. Originally appointed to the seat in 2009, Bennet won full terms in 2010 and 2016.\nBarbara Jean Kirkmeyer (born September 15, 1958) is an American politician serving as a member of the Colorado Senate for District 23, which encompasses parts of Weld and Larimer counties in north-central Colorado. She was the Republican nominee for Colorado's 8th congressional district in the 2022 election, losing to Yadira Caraveo in a close race. Kirkmeyer declined to run for the U.S. House in 2024, instead running for re-election."
+    },
+    {
+      "id": 71,
+      "question": "Who won the 13th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Adam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\nand portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th congressional district, narrowly losing in the general election to Duarte. He ran for the same seat again in 2024, defeating Duarte in another close race.\nCalifornia's 13th congressional district is a congressional district in the U.S. state of California. John Duarte, a Republican, has represented this district since January 2023.\nEric Michael Swalwell ( SWAHL-well; born November 16, 1980) is an American lawyer and politician serving as the U.S. representative from California's 14th congressional district since 2023, having previously represented the 15th district from 2013 to 2023. His district covers most of eastern Alameda County and part of central Contra Costa County. He is a member of the Democratic Party."
+    },
+    {
+      "id": 72,
+      "question": "Who won the 9th congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Lisa Carmella McClain (n\u00e9e Iovannisci; born April 7, 1966) is an American politician serving as a U.S. representative from Michigan since 2021, representing the state's 9th congressional district since 2023. A member of the Republican Party, McClain serves in congressional leadership as Secretary of the House Republican Conference. She was elected to serve as the chair of the House Republican Conference for the 119th Congress upon the departure of Elise Stefanik.\nThe 2022 United States House of Representatives elections in Michigan were held on November 8, 2022, to elect representatives for the thirteen seats in Michigan (reduced from 14 in the redistricting cycle following the 2020 United States census). The deadline for candidates to file for the August 2 primary was April 19. The congressional makeup prior to the election was seven Democrats and seven Republicans. However, after the 2020 census, Michigan lost one congressional seat. Democrats won a\nHillary Jeanne Scholten ( SKOHL-t\u0259n; born February 22, 1982) is an American attorney and politician serving as the U.S. representative from Michigan's 3rd congressional district since 2023. A member of the Democratic Party, she represents Grand Rapids and much of the urban core of West Michigan, in a district once represented by former President Gerald Ford.\nDaniel Timothy Kildee (; born August 11, 1958) is an American politician serving as a U.S. representative from Michigan since 2013, representing the state's 8th congressional district since 2023. A member of the Democratic Party, he previously served as the Genesee County Treasurer from 1996 to 2013, before succeeding his uncle, Dale Kildee, in Congress. From 1977 to 2009, Kildee was a municipal elected official. On November 16, 2023, he announced he would not seek re-election in 2024."
+    },
+    {
+      "id": 73,
+      "question": "Who won the 2nd congressional district of Louisiana in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Louisiana's 2nd congressional district contains nearly all of the city of New Orleans and stretches west and north to Baton Rouge. The district is currently represented by Democrat Troy Carter. With a Cook Partisan Voting Index rating of D+25, it is the only Democratic district in Louisiana.\nLouisiana's 4th congressional district is a congressional district in the U.S. state of Louisiana. The district is located in the northwestern part of the state and is based in Shreveport-Bossier City. It also includes the cities of Minden, DeRidder, and Natchitoches.\nThe district is currently represented by Republican Mike Johnson, who has served as Speaker of the House of Representatives since October 2023.\nLouisiana's 1st congressional district is a congressional district in the U.S. state of Louisiana. The district comprises land from the northern shore of Lake Pontchartrain south to the Mississippi River delta. It covers most of New Orleans' suburbs, as well as a sliver of New Orleans itself.\nThe district is currently represented by Republican House majority leader Steve Scalise. With a Cook Partisan Voting Index rating of R+23, it is the most Republican district in Louisiana.\nGary Chambers Jr. (born August 5, 1985) is an American civil rights activist and perennial candidate from Baton Rouge, Louisiana. A progressive member of the Democratic Party, Chambers ran unsuccessfully in the 2022 United States Senate election in Louisiana, the 2021 Louisiana's 2nd congressional district special election, and, in 2019, for Louisiana's 15th State Senate district."
+    },
+    {
+      "id": 74,
+      "question": "Who won the 15th congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Pennsylvania's 15th congressional district has been located in western and central Pennsylvania since 2019. Since 2023, the district includes all of Armstrong, Cameron, Centre, Clarion, Clearfield, Clinton, Elk, Forest, Jefferson, McKean, Potter, Snyder, Tioga, Union, and Warren counties and parts of Indiana, Lycoming, and Venango counties.\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nThe 2022 United States House of Representatives elections in Pennsylvania were held on November 8, 2022, to elect representatives for the seventeen seats in Pennsylvania (reduced from 18 in the redistricting cycle following the 2020 United States census)."
+    },
+    {
+      "id": 75,
+      "question": "Who won the 2nd congressional district of Alabama in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Adam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\nand portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th congressional district, narrowly losing in the general election to Duarte. He ran for the same seat again in 2024, defeating Duarte in another close race.\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nWilliam Gregory Steube ( STOO-bee; born May 19, 1978) is an American attorney and politician serving as the U.S. representative for Florida's 17th congressional district since 2019. His district is based in Sarasota. A member of the Republican Party, Steube served three terms in the Florida House of Representatives, representing the Sarasota-Manatee area from 2010 to 2016, as well as two years in the Florida Senate until 2018, representing Sarasota County and the western part of Charlotte"
+    },
+    {
+      "id": 76,
+      "question": "Who won the 11th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Texas's 11th congressional district of the United States House of Representatives is in the midwestern portion of the state of Texas, stretching from the Permian Basin through the Hill Country.  Major cities in the district include: Andrews, Midland, Odessa, San Angelo, Killeen, and Brownwood. The current Representative from the 11th district is Republican August Pfluger.\nTexas's 33rd congressional district is a district that was created as a result of the 2010 census. The first candidates ran in the 2012 House elections, and were seated for the 113th United States Congress.\nThe 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs"
+    },
+    {
+      "id": 77,
+      "question": "Who won the 2nd congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "New York's 2nd congressional district is a congressional district for the United States House of Representatives along the South Shore of Long Island, New York. It includes southwestern Suffolk County and a small portion of southeastern Nassau County. The district is currently represented by Republican Andrew Garbarino.\nThe 2022 United States House of Representatives elections in New York were held on November 8, 2022, to elect the 26 U.S. representatives from the State of New York, one from each of the state's 26 congressional districts. The elections coincided with elections for governor, U.S. Senate, attorney general, comptroller, state senate, and assembly, and various other state and local elections.\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nAndrew Reed Garbarino ( GAR-b\u0259-REE-noh; born September 27, 1984) is an American attorney and politician serving as the U.S. representative for New York's 2nd congressional district since 2021. A member of the Republican Party, he served as the New York State Assemblyman for the 7th district from 2013 to 2020."
+    },
+    {
+      "id": 78,
+      "question": "Who won the 9th congressional district of Ohio in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Ohio's 9th congressional district has been represented by Representative Marcy Kaptur (D) since 1983. It was one of thirteen districts that would have voted for Donald Trump in the 2024 presidential election had they existed in their current configuration while being won or held by a Democrat in 2024.\nThe 2022 United States Senate election in Ohio was held on November 8, 2022, to elect a member of the United States Senate to represent the State of Ohio. Republican writer and venture capitalist JD Vance defeated Democratic U.S. Representative Tim Ryan to succeed retiring incumbent Republican Rob Portman.\nGesiotto Gilbert was the Republican nominee in the 2022 election in Ohio's 13th congressional district, losing to Democrat Emilia Sykes.\nThe 2022 United States House of Representatives elections in Ohio were held on November 8, 2022, to elect the 15 U.S. representatives from Ohio, one from each of the state's 15 congressional districts. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections were held on May 3, 2022."
+    },
+    {
+      "id": 79,
+      "question": "Who won the 15th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Texas's 15th congressional district of the United States House of Representatives includes a thin section of the far south of the state of Texas.  The district's current Representative is Republican Monica De La Cruz. Elected in 2022, De La Cruz is the first Republican and woman to represent the district.\nThe 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs"
+    },
+    {
+      "id": 80,
+      "question": "Who won the 41st congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A",
+      "context": "Adam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\nTed Win-Ping Lieu (Chinese: \u5289\u96f2\u5e73;  LEW; born March 29, 1969) is an American lawyer and politician who has represented California's 36th congressional district in the United States House of Representatives since 2023. He represented the 33rd congressional district from 2015 to 2023. The district includes South Bay and Westside regions of Los Angeles, as well as Beverly Hills, Santa Monica, the Palos Verdes Peninsula, and Beach Cities.\nJoshua Keck Harder (born August 1, 1986) is an American politician and venture capital investor who has served as the U.S. representative from California's 9th congressional district since 2019 (known as the 10th congressional district until 2023). A member of the Democratic Party, he defeated Republican incumbent Jeff Denham in the 2018 election by five points. In 2020, he was reelected by a significantly larger margin than in 2018. He won reelection to California's new 9th congressional\nKevin Patrick Kiley (born January 30, 1985) is an American politician, attorney, and former educator serving as the U.S. representative for California's 3rd congressional district since 2023. A member of the Republican Party, he represented the 6th district in the California State Assembly from 2016 to 2022. Kiley was one of 53 candidates to replace California governor Gavin Newsom in the voter-initiated recall election on September 14, 2021."
+    },
+    {
+      "id": 81,
+      "question": "Who won the 2nd congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nThe 2022 United States House of Representatives elections in Pennsylvania were held on November 8, 2022, to elect representatives for the seventeen seats in Pennsylvania (reduced from 18 in the redistricting cycle following the 2020 United States census)."
+    },
+    {
+      "id": 82,
+      "question": "Who won the 2nd congressional district of Oregon in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "B",
+      "context": "Suzanne Marie Bonamici ( BONN-\u0259-MEE-chee; born October 14, 1954) is an American lawyer and politician serving as the U.S. representative for Oregon's 1st congressional district, a seat she was first elected to in a 2012 special election. The district includes most of Portland west of the Willamette River, as well as all of Columbia, Clatsop, and Washington counties.\nValerie Anne Hoyle (n\u00e9e Toomey; born February 14, 1964) is an American politician serving as the U.S. representative for Oregon's 4th congressional district since 2023. Until 2023, she served as the commissioner of Oregon's Bureau of Labor and Industries (BOLI) (commonly called the \"Labor Commissioner\").\nIn the 2024 election, the district shifted dramatically to the right, narrowly voting for Republican presidential candidate Donald J. Trump after having previously voted for Democrat Joe Biden over Trump by 20 points in 2020. The Democratic congressional candidate, Nellie Pou, won by 5 points over the Republican Billy Prempeh, a much narrower margin than previous congressional races. Pou was elected to succeed the deceased incumbent, will take office in January 2025.\nthe result was wider in the presidential election than the House. Due to redistricting, incumbent Gonzalez in the 2022 election ran in the 34th congressional district. The Republican nominee, former insurance agent Monica De La Cruz defeated the Democratic nominee, businesswoman Michelle Vallejo."
+    },
+    {
+      "id": 83,
+      "question": "Who won the 5th congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "The 2022 United States House of Representatives elections in Michigan were held on November 8, 2022, to elect representatives for the thirteen seats in Michigan (reduced from 14 in the redistricting cycle following the 2020 United States census). The deadline for candidates to file for the August 2 primary was April 19. The congressional makeup prior to the election was seven Democrats and seven Republicans. However, after the 2020 census, Michigan lost one congressional seat. Democrats won a\nMichigan's 5th congressional district is a United States congressional district in the Lower Peninsula of Michigan. It includes all of Branch, Cass, Hillsdale, Jackson, Lenawee, Monroe (except for the city of Milan), and St. Joseph counties, southern Berrien County, most of Calhoun County, and far southern Kalamazoo County. The district is represented by Republican Tim Walberg.\nLisa Carmella McClain (n\u00e9e Iovannisci; born April 7, 1966) is an American politician serving as a U.S. representative from Michigan since 2021, representing the state's 9th congressional district since 2023. A member of the Republican Party, McClain serves in congressional leadership as Secretary of the House Republican Conference. She was elected to serve as the chair of the House Republican Conference for the 119th Congress upon the departure of Elise Stefanik.\nTimothy Lee Walberg (born April 12, 1951) is an American politician serving as a U.S. representative from Michigan since 2011, representing the state's 5th congressional district since 2023. A member of the Republican Party, he previously represented the 7th district from 2007 to 2009 and from 2011 to 2023. As the longest tenured member from Michigan, Walberg is the current Dean of its delegation to the U.S. House of Representatives."
+    },
+    {
+      "id": 84,
+      "question": "Who won the governor race of South Carolina in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "The 117th and current governor of South Carolina is Henry McMaster, who is serving his second elected term. He assumed the office on January 24, 2017, after Nikki Haley resigned to become the United States ambassador to the United Nations. He won election to full terms in 2018 and 2022.\nHenry Dargan McMaster (born May 27, 1947) is an American politician and attorney serving as the 117th governor of South Carolina since 2017. A member of the Republican Party, he was the 50th attorney general of South Carolina from 2003 to 2011 and the 91st lieutenant governor of South Carolina from 2015 to 2017 under Governor Nikki Haley.\nBudd was the Republican nominee in the 2022 United States Senate election in North Carolina to replace retiring Republican senator Richard Burr. He defeated the Democratic nominee, Cheri Beasley, and subsequently took office on January 3, 2023.\nThe 2022 United States Senate election in North Carolina was held on November 8, 2022, to elect a member of the United States Senate to represent the State of North Carolina.  Republican congressman Ted Budd won his first term in office, defeating Democratic nominee Cheri Beasley. Primary elections were scheduled for March 8, 2022, but were delayed by the North Carolina Supreme Court and rescheduled for May 17."
+    },
+    {
+      "id": 85,
+      "question": "Who won the 1st congressional district of Michigan in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "The 2022 United States House of Representatives elections in Michigan were held on November 8, 2022, to elect representatives for the thirteen seats in Michigan (reduced from 14 in the redistricting cycle following the 2020 United States census). The deadline for candidates to file for the August 2 primary was April 19. The congressional makeup prior to the election was seven Democrats and seven Republicans. However, after the 2020 census, Michigan lost one congressional seat. Democrats won a\nLisa Carmella McClain (n\u00e9e Iovannisci; born April 7, 1966) is an American politician serving as a U.S. representative from Michigan since 2021, representing the state's 9th congressional district since 2023. A member of the Republican Party, McClain serves in congressional leadership as Secretary of the House Republican Conference. She was elected to serve as the chair of the House Republican Conference for the 119th Congress upon the departure of Elise Stefanik.\nMichigan's 1st congressional district is a United States congressional district that fully contains the 15 counties of the Upper Peninsula of Michigan and 20 counties of Northern Michigan in the Lower Peninsula. The district is currently represented by Republican Jack Bergman.\nHillary Jeanne Scholten ( SKOHL-t\u0259n; born February 22, 1982) is an American attorney and politician serving as the U.S. representative from Michigan's 3rd congressional district since 2023. A member of the Democratic Party, she represents Grand Rapids and much of the urban core of West Michigan, in a district once represented by former President Gerald Ford."
+    },
+    {
+      "id": 86,
+      "question": "Who won the governor race of Oregon in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Oregon House of Representatives from 2013 to 2022. She won the 2022 Oregon gubernatorial election, defeating Republican nominee Christine Drazan and independent candidate Betsy Johnson.\nChristine Kotek ( KOH-tek; born September 30, 1966) is an American politician serving as the 39th governor of Oregon since 2023. A member of the Democratic Party, Kotek served eight terms as the state representative from the 44th district of the Oregon House of Representatives from 2007 to 2022, as majority leader of the Oregon House of Representatives from 2011 to 2013, and as Speaker of the Oregon House of Representatives from 2013 to 2022. She won the 2022 Oregon gubernatorial election,\nThe 2022 Oregon gubernatorial election took place on November 8, 2022, to elect the governor of Oregon. Incumbent Kate Brown took office when fellow Democrat John Kitzhaber resigned on February 18, 2015. She won the subsequent 2016 special election  a full term in 2018. Due to term limits, she was unable to run again in 2022.\nChristine Renee Drazan (n\u00e9e Deboy; born May 28, 1972) is an American politician who serves in the Oregon House of Representatives from the 51st district as a member of the Republican Party. She served from the 39th district from 2019 to 2022, before losing in the 2022 Oregon gubernatorial election to Democrat Tina Kotek. During her tenure in the state house she served as the minority leader from 2019 to 2021."
+    },
+    {
+      "id": 87,
+      "question": "Who won the 1st congressional district of Pennsylvania in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "The 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nPennsylvania's 6th congressional district is a district in the state of Pennsylvania. It includes almost all of Chester County and the southeastern portion of Berks County including the city of Reading and its southeastern suburbs. The district is represented by Democrat Chrissy Houlahan, who has served in Congress since 2019. As currently drawn, the district is among the wealthiest in Pennsylvania. The Supreme Court of Pennsylvania redrew the district in February 2018 after ruling the previous\nPennsylvania's first congressional district includes all of Bucks County and a sliver of Montgomery County in southeastern Pennsylvania. It has been represented by Brian Fitzpatrick since 2019.\nThe 2022 United States House of Representatives elections in Pennsylvania were held on November 8, 2022, to elect representatives for the seventeen seats in Pennsylvania (reduced from 18 in the redistricting cycle following the 2020 United States census)."
+    },
+    {
+      "id": 88,
+      "question": "Who won the 8th congressional district of Georgia in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "Georgia's 8th congressional district is a congressional district in the U.S. state of Georgia. The district is currently represented by Republican Austin Scott.\nThe district is located in central and south-central Georgia, and stretches from the geographical center of the state to the Florida border.  The district includes the cities of Perry, Cordele, Tifton, Moultrie, Valdosta, and portions of Macon.\nGeorgia's 14th congressional district is a United States congressional district in Georgia. The district is represented by Republican Marjorie Taylor Greene. Located in Northwest Georgia, it was created following the 2010 census, when the state gained a 14th seat in the U.S. House of Representatives. With a Cook Partisan Voting Index of R+22, it is tied with the 9th district for the most Republican congressional district in Georgia.\nGeorgia's 10th congressional district is a congressional district in the U.S. state of Georgia. The district is currently represented by Republican Mike Collins, and includes a large swath of urban and rural territory between Atlanta and Augusta.\nThe district's boundaries were redrawn following the 2010 census, which granted an additional congressional seat to Georgia.  The first election using the new district boundaries (listed below) were the 2012 congressional elections.\nThe 2022 United States House of Representatives elections in Georgia were held on November 8, 2022, to elect the 14 U.S. representatives from the state of Georgia, one from each of the state's congressional districts. The elections coincided with the Georgia gubernatorial election, as well as other elections to the U.S. House of Representatives, elections to the U.S. Senate, and various state and local elections."
+    },
+    {
+      "id": 89,
+      "question": "Who won the 14th congressional district of Florida in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "William Gregory Steube ( STOO-bee; born May 19, 1978) is an American attorney and politician serving as the U.S. representative for Florida's 17th congressional district since 2019. His district is based in Sarasota. A member of the Republican Party, Steube served three terms in the Florida House of Representatives, representing the Sarasota-Manatee area from 2010 to 2016, as well as two years in the Florida Senate until 2018, representing Sarasota County and the western part of Charlotte\nFlorida's 14th congressional district is an electoral district for the U.S. Congress and includes western Hillsborough County and southeastern Pinellas County, including most of Tampa. In the 2020 redistricting cycle, the district was redrawn to include almost all areas in both counties which face Tampa Bay, while northeastern Tampa and its neighbouring suburbs are redistricted into the 15th district. The 14th district also includes MacDill Air Force Base and Tampa International Airport.\nKatherine Anne Castor ( KASS-t\u0259r; born August 20, 1966) is an American politician and lawyer currently representing Florida's 14th congressional district in the United States House of Representatives, serving since 2007. The district, numbered as the 11th district from 2007 to 2013, is based in Tampa. A Democrat, Castor was a member of the Hillsborough County Commission.\nRonald Dion DeSantis (; born September 14, 1978) is an American politician serving since 2019  as the 46th governor of Florida. A member of the Republican Party, he served as the U.S. representative from Florida's 6th congressional district from 2013 to 2018. DeSantis was a candidate for the 2024 Republican presidential nomination, withdrawing his candidacy in January 2024."
+    },
+    {
+      "id": 90,
+      "question": "Who won the 10th congressional district of Virginia in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Virginia's 10th congressional district is a U.S. congressional district in the Commonwealth of Virginia. It is represented by Democrat Jennifer Wexton, who was first elected in 2018.\nJennifer Lynn Wexton (n\u00e9e Tosini, May 27, 1968) is an American lawyer and politician who has served as the United States representative for Virginia's 10th congressional district since 2019. The district is anchored in the outer portion of Northern Virginia, and includes all of Fauquier County, Loudoun County, and Rappahannock County, parts of Fairfax County and Prince William County, and the independent cities of Manassas and Manassas Park.\nHeights, Emporia, Hopewell, Petersburg, and Richmond. The district is currently represented by Democrat Jennifer McClellan, who was elected to the seat after she defeated Republican Leon Benjamin in the February 21, 2023, special election, caused by the death of incumbent Donald McEachin (D) on November 28, 2022.\nThe 2023 Virginia's 4th congressional district special election was a special election to the U.S. House of Representatives that was held to fill Virginia's 4th congressional district for the remainder of the 118th United States Congress. The seat became vacant after incumbent Democrat Donald McEachin died on November 28, 2022, of colorectal cancer. State Senator Jennifer McClellan was declared the victor shortly after the polls closed, winning in a landslide against her Republican opponent."
+    },
+    {
+      "id": 91,
+      "question": "Who won the 8th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Joshua Keck Harder (born August 1, 1986) is an American politician and venture capital investor who has served as the U.S. representative from California's 9th congressional district since 2019 (known as the 10th congressional district until 2023). A member of the Democratic Party, he defeated Republican incumbent Jeff Denham in the 2018 election by five points. In 2020, he was reelected by a significantly larger margin than in 2018. He won reelection to California's new 9th congressional\nAdam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\na significantly larger margin than in 2018. He won reelection to California's new 9th congressional district, created through the 2020 redistricting process, which includes the majority of San Joaquin County.\nCalifornia's 8th congressional district is a congressional district in the U.S. state of California. As of 2023, Democrat John Garamendi represents the district. Currently, the 8th district includes parts of the Bay Area counties of Contra Costa County and Solano County, including the cities of Vallejo, Fairfield, Richmond and parts of Martinez."
+    },
+    {
+      "id": 92,
+      "question": "Who won the 1st congressional district of Iowa in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C",
+      "context": "Ashley Elizabeth Hinson (born June 27, 1983) is an American politician and journalist serving as the U.S. representative for Iowa's 2nd congressional district  since 2021. The district, numbered as the 1st district during her first term, covers much of northeastern Iowa, including Cedar Rapids, Waterloo, Cedar Falls, and Dubuque.\nMariannette Jane Miller-Meeks (born September 6, 1955) is an American physician and politician who has served as a U.S. representative from Iowa since 2021. A member of the Republican Party, she represents the state's 1st congressional district. Her district, numbered as the 2nd district in her first term, includes most of Iowa's southeastern quadrant, including Davenport, Bettendorf, Burlington, and Iowa City. Miller-Meeks previously served as the Iowa state senator from the 41st district from\nA member of the Republican Party, Hinson was the Iowa State Representative for the 67th district from 2017 to 2021, the first woman to represent the district. She won a seat in the United States House of Representatives in the 2020 election, narrowly defeating incumbent Democrat Abby Finkenauer. Hinson and Mariannette Miller-Meeks are the first Republican women to represent Iowa in the House.\nIowa's 1st congressional district is a congressional district in the U.S. state of Iowa that covers its southeastern part, bordering the states of Illinois and  Missouri, and the Mississippi River. The district includes the cities of Davenport, Iowa City, Burlington, and Indianola. Republican Mariannette Miller-Meeks is the current U.S. representative. With a Cook Partisan Voting Index rating of R+3, it is one of the least Republican districts in Iowa, a state with an all-Republican"
+    },
+    {
+      "id": 93,
+      "question": "Who won the 3rd congressional district of Illinois in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Illinois's 3rd congressional district includes parts of Cook County and DuPage County, and has been represented by Democrat Delia Ramirez since January 3, 2023. The district was previously represented by Marie Newman from 2021 to 2023, Dan Lipinski from 2005 to 2021, and by Lipinski's father Bill from 1983 to 2005.\nDelia Catalina Ramirez (born June 2, 1983) is an American politician who has served as the U.S. representative from Illinois's 3rd congressional district since 2023. Ramirez is a member of the Democratic Party.\nThe 2022 United States House of Representatives elections in Illinois were held on November 8, 2022, to elect the 17 U.S. representatives from Illinois, one from each of the state's 17 congressional districts (reduced from 18 in the redistricting cycle following the 2020 United States census). The elections coincided with the 2022 U.S. Senate race in Illinois, as well as other elections to the House of Representatives, other elections to the United States Senate and various state and local\nBradley Scott Schneider (born August 20, 1961) is an American businessman and politician who is the U.S. representative for Illinois's 10th congressional district since 2017 and from 2013 to 2015. The district includes many of Chicago's northern suburbs in the Chicago metropolitan area. Its most populous city is Waukegan, an industrial suburb on Lake Michigan."
+    },
+    {
+      "id": 94,
+      "question": "Who won the 19th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "New York's 19th congressional district is located in New York's Catskills, Hudson Valley, Southern Tier, and Finger Lakes regions. It lies partially in the northernmost region of the New York metropolitan area and south of Albany. This district is  represented by Republican Marc Molinaro, although in November 2024, he lost to  Democrat Josh Riley, who is scheduled to assume office on January 3, 2025.\nOn September 21, 2021, Molinaro announced that he would run for New York's 19th district in the United States House of Representatives in 2022. In the special election held on August 23, 2022, Molinaro lost to Democratic nominee Pat Ryan, the Ulster County executive, 51.2% to 48.8%. Molinaro was the Republican nominee for the same seat in the November 2022 general election, this time defeating Democratic nominee Josh Riley under new district lines. Ryan, who defeated Molinaro in August, was\nNew York's 13th congressional district is a congressional district for the United States House of Representatives in New York City, represented by Adriano Espaillat.\nMarcus James Molinaro ( moh-lin-AIR-oh; born October 8, 1975) is an American politician serving as the U.S. representative for New York's 19th congressional district since 2023. A member of the Republican Party, Molinaro was a member of the Dutchess County Legislature and the New York State Assembly before being elected county executive of Dutchess County, New York in 2011. He was reelected county executive in 2015 and 2019. Molinaro is also a former mayor of Tivoli; when he became mayor at age"
+    },
+    {
+      "id": 95,
+      "question": "Who won the 39th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Joshua Keck Harder (born August 1, 1986) is an American politician and venture capital investor who has served as the U.S. representative from California's 9th congressional district since 2019 (known as the 10th congressional district until 2023). A member of the Democratic Party, he defeated Republican incumbent Jeff Denham in the 2018 election by five points. In 2020, he was reelected by a significantly larger margin than in 2018. He won reelection to California's new 9th congressional\nTed Win-Ping Lieu (Chinese: \u5289\u96f2\u5e73;  LEW; born March 29, 1969) is an American lawyer and politician who has represented California's 36th congressional district in the United States House of Representatives since 2023. He represented the 33rd congressional district from 2015 to 2023. The district includes South Bay and Westside regions of Los Angeles, as well as Beverly Hills, Santa Monica, the Palos Verdes Peninsula, and Beach Cities.\nAdam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\na significantly larger margin than in 2018. He won reelection to California's new 9th congressional district, created through the 2020 redistricting process, which includes the majority of San Joaquin County."
+    },
+    {
+      "id": 96,
+      "question": "Who won the 1st congressional district of Maine in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "C",
+      "context": "Maine's 1st congressional district is a congressional district in the U.S. state of Maine. The geographically smaller of the state's two congressional districts, the district covers the southern coastal area of the state. The district consists of all of Cumberland, Knox, Lincoln, Sagadahoc, and York counties, and most of Kennebec County. Located within the district are the cities of Portland, Brunswick, and Saco. The district is currently represented by Democrat Chellie Pingree.\nThe 2022 United States House of Representatives elections in Maine were held on November 8, 2022, to elect the two U.S. representatives from the state of Maine, one from each of the state's two congressional districts. The elections coincided with other elections to the House of Representatives, elections to the United States Senate and various state and local elections. The elections were conducted with ranked choice voting, as per the result of a referendum passed in 2016. These were the first\nChellie Marie Pingree ( SHELL-ee PING-gree; born Rochelle Marie Johnson; April 2, 1955) is an American politician serving as the U.S. representative for Maine's 1st congressional district since 2009. Her district includes most of the southern part of the state, centered around the Portland area.\nwith ranked choice voting, as per the result of a referendum passed in 2016. These were the first House of Representatives elections held in Maine following the 2020 redistricting cycle."
+    },
+    {
+      "id": 97,
+      "question": "Who won the senate race of Missouri in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "The 2022 United States Senate election in Missouri was held on November 8, 2022, concurrently with elections for all other Class 3 U.S. senators and elections for the U.S. House of Representatives, to select a member of the United States Senate to represent the state of Missouri. Incumbent senator Roy Blunt, a Republican, did not seek a third term in office. Republican Missouri Attorney General Eric Schmitt won the open seat, defeating Democrat Trudy Busch Valentine.\nto the Missouri Senate, representing District 20. He was reelected for a second term in the U.S House of Representatives in 2024.\nEric Stephen Schmitt (born June 20, 1975) is an American lawyer and politician serving as the junior United States senator from Missouri since 2023. A member of the Republican Party, Schmitt served from 2017 to 2019 as the 46th State Treasurer of Missouri and from 2019 to 2023 as the 43rd Missouri Attorney General.\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022."
+    },
+    {
+      "id": 98,
+      "question": "Who won the 18th congressional district of Florida in the 2022 U.S. midterm elections?",
+      "gold_answer": "B",
+      "pred_answer": "B",
+      "context": "William Gregory Steube ( STOO-bee; born May 19, 1978) is an American attorney and politician serving as the U.S. representative for Florida's 17th congressional district since 2019. His district is based in Sarasota. A member of the Republican Party, Steube served three terms in the Florida House of Representatives, representing the Sarasota-Manatee area from 2010 to 2016, as well as two years in the Florida Senate until 2018, representing Sarasota County and the western part of Charlotte\nFlorida's 18th congressional district is an electoral district for the U.S. Congress, located in the Florida Heartland. In the 2020 redistricting cycle, the district was redrawn to cover inland counties of DeSoto, Glades, Hardee, Hendry, Highlands, and Okeechobee, as well as most of Polk County (including Bartow, eastern Lakeland, and Winter Haven) and some of Immokalee in Collier County. It is essentially the successor to the old 15th district. The district is currently represented by\nRonald Dion DeSantis (; born September 14, 1978) is an American politician serving since 2019  as the 46th governor of Florida. A member of the Republican Party, he served as the U.S. representative from Florida's 6th congressional district from 2013 to 2018. DeSantis was a candidate for the 2024 Republican presidential nomination, withdrawing his candidacy in January 2024.\nIn 2018, Waltz defeated former ambassador Nancy Soderberg and succeeded Ron DeSantis, who went on to be elected the 46th governor of Florida that same year. He was re-elected in 2020, 2022, and 2024 with over 60% of the vote in each election. Waltz serves as Chair of the House Armed Services Subcommittee on Readiness for the 118th United States Congress."
+    },
+    {
+      "id": 99,
+      "question": "Who won the senate race of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "A",
+      "pred_answer": "A",
+      "context": "Two 2022 United States Senate elections in California were held concurrently on November 8, 2022, to elect a member of the United States Senate to represent the State of California. There were two ballot items for the same Class 3 seat: a special election to fill the seat for the final weeks of the 117th United States Congress (ending on January 3, 2023), and a general election for a full term (beginning on the same day), starting in the 118th United States Congress.\nand portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th congressional district, narrowly losing in the general election to Duarte. He ran for the same seat again in 2024, defeating Duarte in another close race.\nThe 2022 United States Senate election in Pennsylvania was held on November 8, 2022, to elect a member of the United States Senate to represent the Commonwealth of Pennsylvania. Democratic lieutenant governor John Fetterman won his first term in office, defeating Republican surgeon Mehmet Oz. Fetterman succeeded Republican incumbent senator Pat Toomey, who did not seek re-election after two terms. This was the only U.S. Senate seat to flip parties in 2022.\nAlejandro \"Alex\" Padilla (born March 22, 1973) is an American politician serving as the senior United States senator from California, a seat he has held since 2021. A member of the Democratic Party, Padilla served as the 30th secretary of state of California from 2015 to 2021 and was a member of the California State Senate and the Los Angeles City Council."
+    },
+    {
+      "id": 100,
+      "question": "Who won the 11th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "Joshua Keck Harder (born August 1, 1986) is an American politician and venture capital investor who has served as the U.S. representative from California's 9th congressional district since 2019 (known as the 10th congressional district until 2023). A member of the Democratic Party, he defeated Republican incumbent Jeff Denham in the 2018 election by five points. In 2020, he was reelected by a significantly larger margin than in 2018. He won reelection to California's new 9th congressional\nCalifornia's 11th congressional district is a congressional district in the U.S. state of California represented by former Speaker of the House Nancy Pelosi.\nAdam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\nand portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th congressional district, narrowly losing in the general election to Duarte. He ran for the same seat again in 2024, defeating Duarte in another close race."
+    },
+    {
+      "id": 101,
+      "question": "Who won the 25th congressional district of California in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "C",
+      "context": "Adam Channing Gray (born September 23, 1977) is an American politician who is the member-elect for the United States House of Representatives from California's 13th congressional district after defeating Republican incumbent John Duarte in the 2024 election.  A Democrat, he previously served in the California State Assembly and represented the 21st Assembly district, encompassing all of Merced County and portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th\nand portions of Stanislaus County. He was a candidate in the 2022 election for California's 13th congressional district, narrowly losing in the general election to Duarte. He ran for the same seat again in 2024, defeating Duarte in another close race.\nTed Win-Ping Lieu (Chinese: \u5289\u96f2\u5e73;  LEW; born March 29, 1969) is an American lawyer and politician who has represented California's 36th congressional district in the United States House of Representatives since 2023. He represented the 33rd congressional district from 2015 to 2023. The district includes South Bay and Westside regions of Los Angeles, as well as Beverly Hills, Santa Monica, the Palos Verdes Peninsula, and Beach Cities.\nJoshua Keck Harder (born August 1, 1986) is an American politician and venture capital investor who has served as the U.S. representative from California's 9th congressional district since 2019 (known as the 10th congressional district until 2023). A member of the Democratic Party, he defeated Republican incumbent Jeff Denham in the 2018 election by five points. In 2020, he was reelected by a significantly larger margin than in 2018. He won reelection to California's new 9th congressional"
+    },
+    {
+      "id": 102,
+      "question": "Who won the 27th congressional district of Texas in the 2022 U.S. midterm elections?",
+      "gold_answer": "C",
+      "pred_answer": "A",
+      "context": "Texas's 27th congressional district of the United States House of Representatives covers the coastal bend of Texas' Gulf Coast consisting of Corpus Christi and Victoria up to Bastrop County near Austin. Its current representative is Republican Michael Cloud. Cloud was elected to the district in a special election on June 30, 2018, to replace former Republican representative Blake Farenthold, who had resigned on April 6.\nTexas's 33rd congressional district is a district that was created as a result of the 2010 census. The first candidates ran in the 2012 House elections, and were seated for the 113th United States Congress.\nThe 2022 United States House of Representatives elections in Texas were held on November 8, 2022, to elect the 38 U.S. representatives from Texas, one from each of the state's 38 congressional districts. The state gained two seats after the results of the 2020 census. The elections coincided with other elections to the House of Representatives, other elections to the United States Senate, and various state and local elections. Primary elections took place on March 1, with primary runoffs"
+    },
+    {
+      "id": 103,
+      "question": "Who won the 11th congressional district of New York in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "by Republican Nicole Malliotakis, who is currently the only Republican representing any part of New York City in Congress. Malliotakis was first elected in 2020, defeating one-term incumbent Democrat Max Rose.\nNew York's 11th congressional district is a congressional district for the United States House of Representatives in New York City. The 11th district includes all of Staten Island and parts of southern Brooklyn, including the neighborhoods of Bay Ridge, Bath Beach, Dyker Heights, south western Gravesend, western Sheepshead Bay, and parts of southern Bensonhurst. The 11th district is currently represented by Republican Nicole Malliotakis, who is currently the only Republican representing any part\nNew York's 13th congressional district is a congressional district for the United States House of Representatives in New York City, represented by Adriano Espaillat.\nNicole Malliotakis ( MAL-ee-\u0259-TAH-kiss; born November 11, 1980) is an American politician serving as the U.S. representative for New York's 11th congressional district since 2021. Her constituency covers Staten Island and southern Brooklyn."
+    },
+    {
+      "id": 104,
+      "question": "Who won the senate race of Iowa in the 2022 U.S. midterm elections?",
+      "gold_answer": "D",
+      "pred_answer": "D",
+      "context": "The 2022 United States Senate election in Iowa was held on November 8, 2022, to elect a member of the United States Senate to represent the State of Iowa. Incumbent Republican Senator Chuck Grassley defeated Democratic nominee Michael Franken to win re-election to an eighth term.\nand Iowa City. Miller-Meeks previously served as the Iowa state senator from the 41st district from 2019 to 2021.\nChristina Bohannan (born July 2, 1971) is an American politician, law professor, and former engineer who served as the Iowa State Representative for the 85th district from 2021 to 2023. A member of the Democratic Party, she was elected in 2020, succeeding Vicki Lensing who served ten terms in the Iowa House of Representatives."
+    }
+  ]
+}
